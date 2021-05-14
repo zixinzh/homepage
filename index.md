@@ -11,6 +11,11 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br/>
 
+# Research Interests
+Machine learning (e.g., bandit problem)
+
+<br/>
+
 # Education
 * National University of Singapore (NUS), 2017/08 - present
   * Ph.D. candidate, Department of Mathematics
@@ -28,7 +33,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br/>
 
-# Honors and awards
+# Honors and Awards
 
 * NUS Research Scholarship, 2017/08 - present
 * National Merit Scholarship, China, 2014
