@@ -3,7 +3,12 @@ layout: about
 ---
 
 # About Me
-Hi! I am currently a Ph.D. student at the Department of Mathematics at National University of Singapore (NUS), working with Prof. Vincent Y.F. Tan and Prof. Wang Chi Cheung.
+Hi! I am currently a Ph.D. student at the Department of Mathematics at National University of Singapore (NUS), working with 
+<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Prof. Vincent Y.&thinsp;F. Tan</a> and 
+<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Prof. Wang Chi Cheung</a>.
+
+**Email** : zixin.zhong@u.nus.edu
+
 <!---There is no specific format here. You can fill out the form you want.  
 For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
 I wrote "about me", "career", and "interests" on this page as an example.  
@@ -19,7 +24,7 @@ Machine learning (e.g., bandit problem)
 # Education
 * National University of Singapore (NUS), 2017/08 - present
   * Ph.D. candidate, Department of Mathematics
-    * Supervisors: Prof. Vincent Y.F. Tan, Prof. Wang Chi Cheung 
+    * Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     
 * Sun Yat-sen Univeristy (SYSU), 2013/08 - 2017/06
   * B.S., School of Mathematics (Outstanding Graduate)
