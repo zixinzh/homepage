@@ -12,25 +12,35 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Education
-* National University of Singapore (2017/08 - present)
+* National University of Singapore (NUS), 2017/08 - present
   * Ph.D. candidate, Department of Mathematics
     * Supervisors: Prof. Vincent Y.F. Tan, Prof. Wang Chi Cheung 
-* Sun Yat-sen Univeristy (2013/08 - 2017/06)
+    
+* Sun Yat-sen Univeristy (SYSU), 2013/08 - 2017/06
   * B.S., School of Mathematics (Outstanding Graduate)
     * Thesis advisor: Prof. Guocan Feng
-* University of California, Berkeley (2015/08 - 2015/12)
+    
+* University of California, Berkeley (UCB), 2015/08 - 2015/12
   * International student
-* Yat-sen School (2014/11 - 2017/06)
+  
+* Yat-sen School, 2014/11 - 2017/06
   * top 5% from School of Mathematics
 
 <br/>
 
 # Honors and awards
 
-|:-|:-|
-| Aug. 2017 to present	| NUS Research Scholarship |
+* NUS Research Scholarship, 2017/08 - present
+* National Merit Scholarship, China, 2014
+* First Class Scholarship, SYSU, 2014 and 2015
+
+<!--
+| <! -- -- > |  <! -- -- > | 
+| :--                  |:--                       |
+| 2017/08 - present	| NUS Research Scholarship |
 |2014	                 | National Merit Scholarship, China |
 | 2014, 2015	          | First Class Scholarship, SYSU |
+-->
 
 <br/>
 
