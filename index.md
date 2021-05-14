@@ -1,5 +1,5 @@
 ---
-layout: Home <!--- about ---> 
+layout: About
 ---
 
 # About Me
