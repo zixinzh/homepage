@@ -8,8 +8,8 @@ Hi! I am currently a Ph.&thinsp;D. candidate at the
 at 
 <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>, 
 working with 
-<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Prof. Vincent Y.&thinsp;F. Tan</a> and 
-<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Prof. Wang Chi Cheung</a>.
+Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
+Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wang Chi Cheung</a>.
 
 **Email** : zixin.zhong@u.nus.edu
 
@@ -32,7 +32,7 @@ Machine learning (e.g., bandit problem)
     
 * <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-sen Univeristy (SYSU)</a>, 2013/08 - 2017/06
   * B.&thinsp;S., <a href="http://math.sysu.edu.cn/">School of Mathematics</a> (Outstanding Graduate)
-    * Thesis advisor: <a href="http://math.sysu.edu.cn/teacher/427">Prof. Guocan Feng</a>
+    * Thesis advisor: Prof.&thinsp;<a href="http://math.sysu.edu.cn/teacher/427">Guocan Feng</a>
     
 * <a href="https://www.berkeley.edu/">University of California, Berkeley (UCB)</a>, 2015/08 - 2015/12
   * International student
