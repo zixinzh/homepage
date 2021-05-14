@@ -1,5 +1,5 @@
 # Site settings
-title: A.P
+title: zixinzh
 
 # #############################
 #  SELF DEFINITION
@@ -13,9 +13,9 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  name: Zixin Zhong # KyeongSeob Sim
+  desc: Nice to meet you here.
+  email: zixin.zhong@u.nus.edu # ksub0912@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
