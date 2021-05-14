@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-Hi! I am currently a Ph.D. student at the Department of Mathematics at National University of Singapore (NUS), working with 
+Hi! I am currently a Ph.&thinsp;D. candidate at the Department of Mathematics at National University of Singapore (NUS), working with 
 <a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Prof. Vincent Y.&thinsp;F. Tan</a> and 
 <a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Prof. Wang Chi Cheung</a>.
 
@@ -23,11 +23,11 @@ Machine learning (e.g., bandit problem)
 
 # Education
 * National University of Singapore (NUS), 2017/08 - present
-  * Ph.D. candidate, Department of Mathematics
+  * Ph.&thinsp;D. candidate, Department of Mathematics
     * Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     
 * Sun Yat-sen Univeristy (SYSU), 2013/08 - 2017/06
-  * B.S., School of Mathematics (Outstanding Graduate)
+  * B.&thinsp;S., School of Mathematics (Outstanding Graduate)
     * Thesis advisor: Prof. Guocan Feng
     
 * University of California, Berkeley (UCB), 2015/08 - 2015/12
@@ -66,9 +66,10 @@ Machine learning (e.g., bandit problem)
 <br/>
 --->
 
+<!---
 # Interests
 I am interested in swimming.
-<!---I am interested in technology trends.  
+I am interested in technology trends.  
 I'm not afraid to learn languages, but I enjoy using Python.  
 I like to automate and reduce annoying things.  
 --->
