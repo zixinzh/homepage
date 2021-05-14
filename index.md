@@ -23,6 +23,14 @@ I wrote "about me", "career", and "interests" on this page as an example.
 * Yat-sen School (2014/11 - 2017/06)
   * top 5% from School of Mathematics
 
+<br/>
+# Honors and awards
+|:-|:-|
+| Aug. 2017 to present	| NUS Research Scholarship |
+|2014	                 | National Merit Scholarship, China |
+| 2014, 2015	          | First Class Scholarship, SYSU |
+
+<br/>
 
   
 <!---# Career
@@ -33,8 +41,8 @@ I wrote "about me", "career", and "interests" on this page as an example.
 * First Company (2011/01 ~ 2011/12)
   * VPN Development Company
   * Team Leader of VPN Development Div.
---->
 <br/>
+--->
 
 # Interests
 I am interested in swimming.
