@@ -1,5 +1,5 @@
 ---
-layout: about 
+layout: Home <!--- about ---> 
 ---
 
 # About Me
@@ -12,12 +12,19 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Education
-* National University of Singapore (2017/08 ~ present)
-  * PhD student at the Department of Mathematics
+* National University of Singapore (2017/08 - present)
+  * Ph.D. candidate, Department of Mathematics
     * Supervisors: Prof. Vincent Y.F. Tan, Prof. Wang Chi Cheung 
-* Sun Yat-sen Univeristy (2013/08 ~ 2017/06)
-  * Bachelor degree at the Department of Mathematics
+* Sun Yat-sen Univeristy (2013/08 - 2017/06)
+  * B.S., School of Mathematics (Outstanding Graduate)
+    * Thesis advisor: Prof. Guocan Feng
+* University of California, Berkeley (2015/08 - 2015/12)
+  * International student
+* Yat-sen School (2014/11 - 2017/06)
+  * top 5% from School of Mathematics
 
+
+  
 <!---# Career
 * Second Company (2012/01 ~ )
   * Web Application Firewall
