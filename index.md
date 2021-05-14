@@ -3,7 +3,11 @@ layout: about
 ---
 
 # About Me
-Hi! I am currently a Ph.&thinsp;D. candidate at the Department of Mathematics at National University of Singapore (NUS), working with 
+Hi! I am currently a Ph.&thinsp;D. candidate at the 
+<a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> 
+at 
+<a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>, 
+working with 
 <a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Prof. Vincent Y.&thinsp;F. Tan</a> and 
 <a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Prof. Wang Chi Cheung</a>.
 
@@ -26,11 +30,11 @@ Machine learning (e.g., bandit problem)
   * Ph.&thinsp;D. candidate, Department of Mathematics
     * Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     
-* Sun Yat-sen Univeristy (SYSU), 2013/08 - 2017/06
-  * B.&thinsp;S., School of Mathematics (Outstanding Graduate)
-    * Thesis advisor: Prof. Guocan Feng
+* <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-sen Univeristy (SYSU)</a>, 2013/08 - 2017/06
+  * B.&thinsp;S., <a href="http://math.sysu.edu.cn/">School of Mathematics</a> (Outstanding Graduate)
+    * Thesis advisor: <a href="http://math.sysu.edu.cn/teacher/427">Prof. Guocan Feng</a>
     
-* University of California, Berkeley (UCB), 2015/08 - 2015/12
+* <a href="https://www.berkeley.edu/">University of California, Berkeley (UCB)</a>, 2015/08 - 2015/12
   * International student
   
 * Yat-sen School, 2014/11 - 2017/06
