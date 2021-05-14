@@ -21,27 +21,27 @@ author:
 # social
 social:
   email: true
-  behance:
-  bitbucket:
-  dribbble:
-  facebook: Test
-  flickr:
-  github: zixinzh # kssim
-  google_plus:
-  instagram:
-  keybase:
+#   behance:
+#   bitbucket:
+#   dribbble:
+#   facebook: Test
+#   flickr:
+#   github: zixinzh # kssim
+#   google_plus:
+#   instagram:
+#   keybase:
   linkedin: https://www.linkedin.com/in/zixin-zhong-5a7348209/ # https://www.linkedin.com/in/kssim/ 
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:
-  steam:
-  tumblr:
-  gitlab:
-  twitter: Test
-  vimeo:
-  wordpress:
-  youtube:
+#   pinterest:
+#   reddit:
+#   soundcloud:
+#   stack_exchange:
+#   steam:
+#   tumblr:
+#   gitlab:
+#   twitter: Test
+#   vimeo:
+#   wordpress:
+#   youtube:
   default_txt: "Follow On"
 
 # Build settings
