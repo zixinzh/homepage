@@ -4,6 +4,11 @@ layout: base
 
 <br/>
 
+# Research Interests
+Machine learning (e.g., bandit problem)
+
+<br/>
+
 # Conference Proceedings
 * **Zixin Zhong**, Wang Chi Cheung, and Vincent Y. F. Tan, " Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm for Stochastic Bandits with Corruptions ", International Conference on Machine Learning (ICML), 2021"
 * **Zixin Zhong**, Wang Chi Cheung, and Vincent Y. F. Tan, "Best Arm Identification for Cascading Bandits in the Fixed Confidence Setting", *International Conference on Machine Learning (ICML)*, 2020
