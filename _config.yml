@@ -66,4 +66,4 @@ exclude:
   - "*.gem"
   - "LICENSE"
   - "READE.md"
-  - "screenshot.png"
+  - "screenshot.png" 
