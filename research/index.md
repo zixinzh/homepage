@@ -16,3 +16,11 @@ layout: base
 * Wang Chi Cheung, **Zixin Zhong**<sup>\*</sup>, and Vincent Y. F. Tan, "Thompson Sampling Algorithms for Cascading Bandits", submitted to *Journal of Machine Learning Research (JMLR)* in revised form, May 2021
 
 
+<br/>
+# Professional Activities
+* Reviewer of *Neural Information Processing Systems (NeurIPS)*, 2021
+* Reviewer of *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021
+* Reviewer of *IEEE Transactions on Information Theory*
+
+
+
