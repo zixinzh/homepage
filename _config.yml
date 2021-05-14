@@ -60,3 +60,8 @@ exclude:
   - "LICENSE"
   - "READE.md"
   - "screenshot.png"
+
+# #############################
+#  SELF DEFINITION
+url: zixinzh.github.io
+baseurl: /homepage
