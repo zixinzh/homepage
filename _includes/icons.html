@@ -10,16 +10,22 @@
 {% endif %}
 
 
-{% if site.social.google_plus %}
+
+
+
+{% if site.social.google_scholar %}
 <li>
-  <a href="https://plus.google.com/{{ site.social.google_plus }}" title="{{ site.social.default_txt }} Google+">
+  <a href="{{ site.social.google_scholar }}" title="{{ site.social.default_txt }} Google Scholar">
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-google-plus fa-stack-1x fa-inverse"></i>
+      <i class="fab fa-google fa-stack-1x fa-inverse"></i>
     </span>
   </a>
 </li>
 {% endif %}
+
+
+
 
 {% if site.social.behance %}
 <li>
@@ -87,9 +93,10 @@
 </li>
 {% endif %}
 
-{% if site.social.google_scholar %}
+
+{% if site.social.google_plus %}
 <li>
-  <a href="{{ site.social.google_scholar }}" title="{{ site.social.default_txt }} Google Scholar">
+  <a href="https://plus.google.com/{{ site.social.google_plus }}" title="{{ site.social.default_txt }} Google+">
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
       <i class="fab fa-google-plus fa-stack-1x fa-inverse"></i>
@@ -97,6 +104,7 @@
   </a>
 </li>
 {% endif %}
+
 
 {% if site.social.instagram %}
 <li>
