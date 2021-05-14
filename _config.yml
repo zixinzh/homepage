@@ -1,7 +1,14 @@
 # Site settings
 title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+
+# #############################
+#  SELF DEFINITION
+baseurl: "/homepage"
+url: "zixinzh.github.io"
+# baseurl: "/ap"
+# url: "https://kssim.github.io"
+#  ############################
+
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
@@ -60,8 +67,3 @@ exclude:
   - "LICENSE"
   - "READE.md"
   - "screenshot.png"
-
-# #############################
-#  SELF DEFINITION
-url: zixinzh.github.io
-baseurl: /homepage
