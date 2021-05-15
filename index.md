@@ -5,7 +5,7 @@ layout: about
 # About Me
 Hi! I am currently a Ph.&thinsp;D.&thinsp;candidate at the 
 <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> 
-at 
+of
 <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>, 
 working with 
 Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
