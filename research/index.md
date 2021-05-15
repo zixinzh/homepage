@@ -18,7 +18,7 @@ Machine learning (e.g., bandit problem)
 
 
 # Submitted Manuscripts
-1. Wang Chi Cheung, **Zixin Zhong**<sup>\*</sup>, and Vincent Y.&thinsp;F. Tan, "Thompson Sampling Algorithms for Cascading Bandits", submitted to *Journal of Machine Learning Research (JMLR)* in revised form, May 2021 <a href="https://arxiv.org/abs/1810.01187">[Link]</a>
+1. Wang Chi Cheung, **Zixin Zhong**<sup>\*</sup>, and Vincent Y.&thinsp;F. Tan, "Thompson Sampling Algorithms for Cascading Bandits", submitted to *Journal of Machine Learning Research (JMLR)* in revised form, May 2021. <a href="https://arxiv.org/abs/1810.01187">[Link]</a>
 
 
 <br/>
