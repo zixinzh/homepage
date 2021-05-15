@@ -6,7 +6,7 @@ layout: base
 
 # Internship
 
-* <a href="https://www.aidatech.io/">AiDA Thchnologies Pte Ltd</a>, Singapore, 2020/11 - 2021/03
+* <a href="https://www.aidatech.io/">AiDA Tehchnologies Pte Ltd</a>, Singapore, 2020/11 - 2021/03
   * Data scientist
     * Reporting officers: Dr.&thinsp;Tan Geok Leng (CEO), Dr.&thinsp;Zha Wei
     1. *Insurance upsell/cross sell.* Developing a predictive analytics model for identifying candidates who have a propensity to buy insurance products from a bank's existing CASA customer base.
