@@ -11,6 +11,8 @@ working with
 Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
 Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wang Chi Cheung</a>.
 
+<!--**Hometown**: Zhanjiang City, Guangdong Province, China -->
+
 **Email** : zixin.zhong@u.nus.edu
 
 <!---There is no specific format here. You can fill out the form you want.  
@@ -19,6 +21,9 @@ I wrote "about me", "career", and "interests" on this page as an example.
 --->
 
 <br/>
+
+
+
 
 # Research Interests
 Machine learning (e.g., bandit problem)
