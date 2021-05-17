@@ -43,7 +43,7 @@ Machine learning (e.g., bandit problem)
   * International student
   
 * Yat-sen School, 2014/11 - 2017/06
-  * Top 5% from School of Mathematics
+  * Top 5% from School of Mathematics at SYSU
 
 <br/>
 
