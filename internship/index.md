@@ -18,7 +18,7 @@ layout: base
 <br/>
 
 # Skills
-* **Computer**:  Python, Matlab, Latex, R, C/C++
+* **Computer**:  Python, Matlab, LaTeX, R, C/C++
 * **Language**:   English, Mandarin, Cantonese 
 
 
