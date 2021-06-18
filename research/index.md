@@ -12,18 +12,18 @@ Machine learning (e.g., bandit problem)
 # Conference Proceedings 
 <ol reversed>
 <li> <a href="https://arxiv.org/abs/2010.07904">Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm for Stochastic Bandits with Corruptions</a>
-<br> **Zixin Zhong**, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<br> *International Conference on Machine Learning (ICML)*, 2021
+<br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
+<br> <i>International Conference on Machine Learning (ICML)</i>, 2021
  </li>
  
 <li> <a href="http://proceedings.mlr.press/v119/zhong20a.html">Best Arm Identification for Cascading Bandits in the Fixed Confidence Setting</a>
-<br> **Zixin Zhong**, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<br> *International Conference on Machine Learning (ICML)*, 2020
+<br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
+<br> <i>International Conference on Machine Learning (ICML)</i>, 2020
  </li>
  
 <li> <a href="http://proceedings.mlr.press/v89/cheung19a.html">A Thompson Sampling Algorithm for Cascading Bandits</a> (oral presentation)
-<br> Wang Chi Cheung, Vincent Y.&thinsp;F. Tan, and **Zixin Zhong**
-<br> *International Conference on Artificial Intelligence and Statistics (AISTATS)*, Naha, Okinawa, Japan, 2019
+<br> Wang Chi Cheung, Vincent Y.&thinsp;F. Tan, and <b>Zixin Zhong</b>
+<br> <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, Naha, Okinawa, Japan, 2019
  </li> 
  
  </ol>
