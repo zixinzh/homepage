@@ -4,33 +4,40 @@
 
 @import 'main';
 
+//    FOLLOWING are all added myself
+
 // a {
 //   color: #224b8d;
 //   text-decoration: none;
 // }
 
+// set colors of links
 a:link {
-  color: #Ff8800; // Pizazz
+  color: #Ff6400; // Blaze Orange             #Ff8800; // Pizazz
   background-color: transparent;
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:visited {
-  color: #06307a; // Catalina Blue 
+  color: #041255; // Gulf Blue                #06307a; // Catalina Blue 
   background-color: transparent;
   text-decoration: none;
+  font-weight: bold;
 }
 
 // mouse hanging
 a:hover {
-  color: #Ff9e00;  // orange peel
+  color: #Ff8800; // Pizazz               #Ff9e00;  // orange peel
   background-color: transparent;
   text-decoration: underline;
+  font-weight: bold;
 }
 
 // btw mouse click & release
 a:active {
-  color: #Ffb400; // Selective Yellow
+  color:  #Ff9e00;  // orange peel             #Ffb400; // Selective Yellow
   background-color: transparent;
   text-decoration: underline;
+  font-weight: bold;
 }
