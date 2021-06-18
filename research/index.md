@@ -24,6 +24,7 @@ Machine learning (e.g., bandit problem)
 <br/>
 
 # Professional Activities
+1. Reviewer of *International Conference on Learning Representations (ICLR)*, 2022 
 1. Reviewer of *Neural Information Processing Systems (NeurIPS)*, 2021
 1. Reviewer of *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021
 1. Reviewer of *IEEE Transactions on Information Theory*
