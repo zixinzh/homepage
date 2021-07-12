@@ -57,6 +57,10 @@ Machine learning (e.g., bandit problem)
 
 # Academic Activities
 <ol reversed>
-<li> Oral and poster presentation of the work submitted by ICML 2021 at <i>the 3rd TBSI Workshop on Learning Theory (WOLT)</i>, TBSI, 2021   </li>
-<li> Oral presentation of the work submitted by ICML 2021 at <i>Analytics for X</i>, iORA, NUS, 2021   </li> 
+<li> Oral and poster presentation of the work accepted by ICML 2021 
+ <br> <i>The 3rd TBSI Workshop on Learning Theory (WOLT)</i>, TBSI, 2021   </li>
+
+ <li> Oral presentation of the work accepted by ICML 2021 
+  <br> <i>Analytics for X</i>, iORA, NUS, 2021   </li> 
+ 
  </ol>
