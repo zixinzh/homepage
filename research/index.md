@@ -47,10 +47,16 @@ Machine learning (e.g., bandit problem)
 <br/>
 
 # Professional Activities
-1. Reviewer of *International Conference on Learning Representations (ICLR)*, 2022 
-1. Reviewer of *Neural Information Processing Systems (NeurIPS)*, 2021
-1. Reviewer of *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021
-1. Reviewer of *IEEE Transactions on Information Theory*
+<ol reversed>
+<li> Reviewer of <i>International Conference on Learning Representations (ICLR)</i>, 2022   </li>
+<li> Reviewer of <i>Neural Information Processing Systems (NeurIPS)</i>, 2021  </li>
+<li> Reviewer of <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2021  </li>
+<li> Reviewer of <i>IEEE Transactions on Information Theory</i>  </li>
+ </ol>
 
 
-
+# Academic Activities
+<ol reversed>
+<li> Oral and poster presentation of the work submitted by ICML 2021 at <i>the 3rd TBSI Workshop on Learning Theory (WOLT)</i>, TBSI, 2021   </li>
+<li> Oral presentation of the work submitted by ICML 2021 at <i>Analytics for X</i>, iORA, NUS, 2021   </li> 
+ </ol>
