@@ -11,7 +11,7 @@ Machine learning (e.g., bandit problem)
 
 # Conference Proceedings 
 <ol reversed>
-<li> <a href="https://arxiv.org/abs/2010.07904">Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm for Stochastic Bandits with Corruptions</a> <a href="https://github.com/zixinzh/2021-ICML.git">[code]</a>
+<li> <a href="http://proceedings.mlr.press/v139/zhong21a.html">Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm for Stochastic Bandits with Corruptions</a> <a href="https://github.com/zixinzh/2021-ICML.git">[code]</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
 <br> <i>International Conference on Machine Learning (ICML)</i>, 2021
  </li>
