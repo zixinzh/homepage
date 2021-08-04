@@ -37,12 +37,21 @@ Machine learning (e.g., bandit problem)
 <!-- <br/> -->
 
 
-# Submitted Manuscripts
-1. <a href="https://arxiv.org/abs/1810.01187">Thompson Sampling Algorithms for Cascading Bandits</a>
+# Accepted Manuscripts  
+<!-- Submitted Manuscripts -->
+<ol reversed>
+<li> <a href="https://arxiv.org/abs/1810.01187">Thompson Sampling Algorithms for Cascading Bandits</a>
+<br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
+<br> <i>Journal of Machine Learning Research (JMLR)</i>, July 2021 
+ </li> 
+ 
+ </ol>
+ 
+<!-- 1. <a href="https://arxiv.org/abs/1810.01187">Thompson Sampling Algorithms for Cascading Bandits</a>
 <br> **Zixin Zhong**, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
 <br> Submitted to *Journal of Machine Learning Research (JMLR)* in revised form, May 2021
 <!-- 1. **Zixin Zhong**, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan, "Thompson Sampling Algorithms for Cascading Bandits", submitted to *Journal of Machine Learning Research (JMLR)* in revised form, May 2021. <a href="https://arxiv.org/abs/1810.01187">[Link]</a> -->
-
+ 
 
 <br/>
 
