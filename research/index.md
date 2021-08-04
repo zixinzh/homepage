@@ -42,7 +42,7 @@ Machine learning (e.g., bandit problem)
 <ol reversed>
 <li> <a href="https://arxiv.org/abs/1810.01187">Thompson Sampling Algorithms for Cascading Bandits</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<br> <i>Journal of Machine Learning Research (JMLR)</i>, July 2021 
+<br> Accepted by <i>Journal of Machine Learning Research (JMLR)</i>, July 2021 
  </li> 
  
  </ol>
