@@ -9,7 +9,27 @@ Machine learning (e.g., bandit problem)
 
 <br/>
 
-# Conference Proceedings 
+# Journal Papers
+<!-- Submitted Manuscripts -->
+<ol reversed>
+<li> <a href="https://arxiv.org/abs/1810.01187">Thompson Sampling Algorithms for Cascading Bandits</a>
+<br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
+<br> <i>Journal of Machine Learning Research (JMLR)</i> (Accepted with minor revision), 2021+
+<!--  July 2021  -->
+ </li> 
+ 
+ </ol>
+ 
+<!-- 1. <a href="https://arxiv.org/abs/1810.01187">Thompson Sampling Algorithms for Cascading Bandits</a>
+<br> **Zixin Zhong**, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
+<br> Submitted to *Journal of Machine Learning Research (JMLR)* in revised form, May 2021
+<!-- 1. **Zixin Zhong**, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan, "Thompson Sampling Algorithms for Cascading Bandits", submitted to *Journal of Machine Learning Research (JMLR)* in revised form, May 2021. <a href="https://arxiv.org/abs/1810.01187">[Link]</a> -->
+ 
+
+<br/>
+
+
+# Conference Papers
 <ol reversed>
 <li> <a href="http://proceedings.mlr.press/v139/zhong21a.html">Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm for Stochastic Bandits with Corruptions</a> <a href="https://github.com/zixinzh/2021-ICML.git">[code]</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
@@ -37,23 +57,6 @@ Machine learning (e.g., bandit problem)
 <!-- <br/> -->
 
 
-# Accepted Manuscripts  
-<!-- Submitted Manuscripts -->
-<ol reversed>
-<li> <a href="https://arxiv.org/abs/1810.01187">Thompson Sampling Algorithms for Cascading Bandits</a>
-<br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<br> Accepted by <i>Journal of Machine Learning Research (JMLR)</i>, July 2021 
- </li> 
- 
- </ol>
- 
-<!-- 1. <a href="https://arxiv.org/abs/1810.01187">Thompson Sampling Algorithms for Cascading Bandits</a>
-<br> **Zixin Zhong**, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<br> Submitted to *Journal of Machine Learning Research (JMLR)* in revised form, May 2021
-<!-- 1. **Zixin Zhong**, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan, "Thompson Sampling Algorithms for Cascading Bandits", submitted to *Journal of Machine Learning Research (JMLR)* in revised form, May 2021. <a href="https://arxiv.org/abs/1810.01187">[Link]</a> -->
- 
-
-<br/>
 
 # Professional Activities
 <ol reversed>
