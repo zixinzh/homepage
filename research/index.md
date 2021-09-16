@@ -14,7 +14,7 @@ Machine learning (e.g., bandit problem)
 <ol reversed>
 <li> <a href="https://arxiv.org/abs/1810.01187">Thompson Sampling Algorithms for Cascading Bandits</a> <a href="https://github.com/zixinzh/2021-JMLR.git">[code]</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<br> <i>Journal of Machine Learning Research (JMLR)</i> (Accepted with minor revision), 2021+
+<br> <i>Journal of Machine Learning Research (JMLR)</i> , Accepted in September 2021
 <!--  July 2021  -->
  </li> 
  
