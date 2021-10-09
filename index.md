@@ -23,10 +23,18 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # News
-* &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640;
-* 20/09/2021: I <b>passed the oral defense</b> of my Ph.&thinsp;D.&thinsp;thesis titled "Performance Guarantees for Online Learning: Cascading Bandits and Adversarial Corruptions". Deep thanks to my incredible supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung!
-* 16/09/2021: Paper on <a href="https://jmlr.org/papers/v22/20-447.html">Thompson Sampling Algorithms for Cascading Bandits</a> is accepted by <b>JMLR</b>. Joint work with Wang Chi Cheung and Vincent Y.&thinsp;F. Tan. We develop Thompson sampling-based algorithms and minimax lower bounds for cascading bandits and its linear generalization. 
-
+<ul>
+<li> &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640; </li>
+ 
+<li> 20/09/2021: I <b>passed the oral defense</b> of my Ph.&thinsp;D.&thinsp;thesis titled "Performance Guarantees for Online Learning: Cascading Bandits and Adversarial Corruptions". 
+ <br> Deep thanks to my incredible supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung! 
+ </li>
+ 
+<li> 16/09/2021: Paper on <a href="https://jmlr.org/papers/v22/20-447.html">Thompson Sampling Algorithms for Cascading Bandits</a> is accepted by <b>the Journal of Machine Learning Research</b>. Joint work with Wang Chi Cheung and Vincent Y.&thinsp;F. Tan. 
+<br> We develop Thompson sampling-based algorithms and minimax lower bounds for cascading bandits and its linear generalization. 
+ </li> 
+ 
+</ul> 
 <!--  <a href="https://github.com/zixinzh/2021-JMLR.git">[code]</a> -->
 
 <br/>
@@ -36,8 +44,63 @@ Machine learning (e.g., bandit problem)
 
 <br/>
 
+
+
+# Working Experience
+<ul>
+<li> National University of Singapore (NUS), 2021/06 - present
+   <ul>
+    <li> Research fellow, <a href="https://www.eng.nus.edu.sg/ece/">Department of Electrical and Computer Engineering</a> 
+      <br> Working with Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung  
+    </li>
+   </ul>
+ </li>
+  
+</ul> 
+
+ 
+
+<br/>
+
 # Education
-* National University of Singapore (NUS), 2017/08 - present
+
+<ul>
+<li> National University of Singapore (NUS), 2017/08 - present
+   <ul>
+    <li> Ph.&thinsp;D. candidate, Department of Mathematics
+      <br> Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
+    </li>
+   </ul>
+ </li>
+  
+<li> <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-sen Univeristy (SYSU)</a>, 2013/08 - 2017/06
+   <ul>
+    <li> B.&thinsp;S., <a href="http://math.sysu.edu.cn/">School of Mathematics</a> (Outstanding Graduate)
+      <br> Thesis advisor: Prof.&thinsp;<a href="http://math.sysu.edu.cn/teacher/427">Guocan Feng</a>
+    </li>
+   </ul>
+ </li>
+ 
+<li> <a href="https://www.berkeley.edu/">University of California, Berkeley (UCB)</a>, 2015/08 - 2015/12
+   <ul>
+    <li> International student
+    </li>
+   </ul>
+ </li>
+ 
+ 
+<li> Yat-sen School, 2014/11 - 2017/06
+   <ul>
+    <li> Top 5% from School of Mathematics at SYSU
+    </li>
+   </ul>
+ </li>
+ 
+</ul> 
+
+
+
+<!-- * National University of Singapore (NUS), 2017/08 - present
   * Ph.&thinsp;D. candidate, Department of Mathematics
     * Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     
@@ -49,13 +112,13 @@ Machine learning (e.g., bandit problem)
   * International student
   
 * Yat-sen School, 2014/11 - 2017/06
-  * Top 5% from School of Mathematics at SYSU
+  * Top 5% from School of Mathematics at SYSU -->
 
 <br/>
 
 # Honors and Awards
 
-* NUS Research Scholarship, 2017/08 - present
+* NUS Research Scholarship, 2017/08 - 2021/06
 * National Merit Scholarship, China, 2014
 * First Class Scholarship, SYSU, 2014 and 2015
 
