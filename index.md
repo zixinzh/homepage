@@ -46,7 +46,7 @@ Machine learning (e.g., bandit problem)
 
 
 
-# Working Experience
+# Work Experience
 <ul>
 <li> National University of Singapore (NUS), 2021/06 - present
    <ul>
