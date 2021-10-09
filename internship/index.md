@@ -15,6 +15,7 @@ layout: base
     Dr.&thinsp;<a href="https://www.linkedin.com/in/zhawei/?originalSubdomain=sg">Zha Wei</a>
     </li> 
    </ul>
+   
    <ol  type="a">
      <li> <b>Insurance upsell/cross sell.</b> Developing a predictive analytics model for identifying candidates who have a propensity to buy insurance products from a bank's existing CASA customer base.
       </li>
