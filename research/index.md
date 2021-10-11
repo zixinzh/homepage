@@ -33,17 +33,17 @@ Machine learning (e.g., bandit problem)
 <ol reversed>
 <li> <a href="http://proceedings.mlr.press/v139/zhong21a.html">Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm for Stochastic Bandits with Corruptions</a> <a href="https://github.com/zixinzh/2021-ICML.git">[code]</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<br> <i>International Conference on Machine Learning (ICML)</i>, 2021
+<br> <i>International Conference on Machine Learning (ICML)</i>, virtual, 18-24 July 2021
  </li>
  
 <li> <a href="http://proceedings.mlr.press/v119/zhong20a.html">Best Arm Identification for Cascading Bandits in the Fixed Confidence Setting</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<br> <i>International Conference on Machine Learning (ICML)</i>, 2020
+<br> <i>International Conference on Machine Learning (ICML)</i>, virtual, 13-18 July 2020
  </li>
  
 <li> <a href="http://proceedings.mlr.press/v89/cheung19a.html">A Thompson Sampling Algorithm for Cascading Bandits</a> (oral presentation)
 <br> Wang Chi Cheung, Vincent Y.&thinsp;F. Tan, and <b>Zixin Zhong</b>
-<br> <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, Naha, Okinawa, Japan, 2019
+<br> <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, Naha, Okinawa, Japan, 16-18 April 2019
  </li> 
  
  </ol>
@@ -71,13 +71,16 @@ Machine learning (e.g., bandit problem)
 # Academic Activities
 <ol reversed>
  
-<li> <i>The 22nd Conference of the International Federation of Operational Research Societies (IFORS)</i>, virtual, 2021
+ <li> <i> INFORMS 2021 Annual Meeting </i>, virtual, 24-27 October 2021
   <br> Oral presentation of the work accepted by ICML 2021    </li> 
  
-<li> <i>The 3rd TBSI Workshop on Learning Theory (WOLT)</i>, TBSI, 2021
+<li> <i> The 22nd Conference of the International Federation of Operational Research Societies (IFORS)</i>, virtual, 23-27 August 2021
+  <br> Oral presentation of the work accepted by ICML 2021    </li> 
+ 
+<li> <i>The 3rd TBSI Workshop on Learning Theory (WOLT)</i>, TBSI, 5-7 July 2021
  <br> Oral and poster presentation of the work accepted by ICML 2021    </li>
 
- <li> <i>Analytics for X</i>, iORA, NUS, 2021
+ <li> <i>Analytics for X</i>, iORA, NUS, 19-21 May 2021
   <br> Oral presentation of the work accepted by ICML 2021    </li> 
  
  </ol>
