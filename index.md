@@ -27,6 +27,10 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <ul>
 <li> &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640; </li>
  
+<li> 26/10/2021: I will present our work (proceeding of ICML 2021) in INFORMS 2021 Annual Meeting. 
+  <br> Time: 2:45 PM - 4:15 PM (PDT)  </li> 
+  
+ 
 <li> 20/09/2021: I <b>pass the oral defense</b> of my Ph.&thinsp;D.&thinsp;thesis titled "Performance Guarantees for Online Learning: Cascading Bandits and Adversarial Corruptions". 🎓
  <br> Deep thanks to my incredible supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung! 
  </li>
