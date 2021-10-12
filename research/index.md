@@ -72,15 +72,15 @@ Machine learning (e.g., bandit problem)
 <ol reversed>
  
  <li> <i> INFORMS 2021 Annual Meeting </i>, virtual, 24-27 October 2021
-  <br> Oral presentation of the work accepted by ICML 2021    </li> 
+  <br> Oral presentation of the work appeared at ICML 2021    </li> 
  
 <li> <i> The 22nd Conference of the International Federation of Operational Research Societies (IFORS)</i>, virtual, 23-27 August 2021
-  <br> Oral presentation of the work accepted by ICML 2021    </li> 
+  <br> Oral presentation of the work appeared at ICML 2021    </li> 
  
 <li> <i>The 3rd TBSI Workshop on Learning Theory (WOLT)</i>, TBSI, 5-7 July 2021
- <br> Oral and poster presentation of the work accepted by ICML 2021    </li>
+ <br> Oral and poster presentation of the work appeared at ICML 2021    </li>
 
  <li> <i>Analytics for X</i>, iORA, NUS, 19-21 May 2021
-  <br> Oral presentation of the work accepted by ICML 2021    </li> 
+  <br> Oral presentation of the work appeared at ICML 2021    </li> 
  
  </ol>
