@@ -72,7 +72,7 @@ Machine learning (e.g., bandit problem)
 # Academic Activities
 <ol reversed>
  
- <li> <i> INFORMS 2021 Annual Meeting </i>, virtual, 24-27 October 2021
+ <li> <i> INFORMS 2021 Annual Meeting</i>, virtual, 24-27 October 2021
   <br> Oral presentation of the work appeared at ICML 2021    </li> 
  
 <li> <i> The 22nd Conference of the International Federation of Operational Research Societies (IFORS)</i>, virtual, 23-27 August 2021
