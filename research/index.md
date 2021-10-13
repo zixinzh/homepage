@@ -67,6 +67,7 @@ Machine learning (e.g., bandit problem)
 <li> Reviewer of <i>IEEE Transactions on Information Theory</i>  </li>
  </ol>
 
+<br/>
 
 # Academic Activities
 <ol reversed>
