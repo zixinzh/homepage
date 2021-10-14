@@ -166,9 +166,9 @@ I like to automate and reduce annoying things.
 
 <!-- <hr> -->
 
-<td nowrap>This page has been accessed at least
+<td><nobr>This page has been accessed at least
 <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
 src="http://stuff.mit.edu/cgi/counter/zixinzh1" alt="several"></a> times since 14 Oct 2021, and on average <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
-src="http://stuff.mit.edu/cgi/perday/zixinzh1" alt="several"></a> per day. </td>
+src="http://stuff.mit.edu/cgi/perday/zixinzh1" alt="several"></a> per day. </nobr></td>
 <!-- https://clustrmaps.com/add
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=Hc1N22Jm0sgvB0mawrM4BFuzVJlc_s80BHUBH_EB7wI"></script> -->
