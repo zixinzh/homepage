@@ -39,7 +39,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
  <br> Deep thanks to my incredible supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung! 
  </li>
  
-<li> 16/09/2021: Paper on <a href="https://jmlr.org/papers/v22/20-447.html">Thompson Sampling Algorithms for Cascading Bandits</a> is accepted by the <b>Journal of Machine Learning Research</b>. Joint work with Wang Chi Cheung and Vincent Y.&thinsp;F. Tan. 
+<li> 16/09/2021: Paper titled <a href="https://jmlr.org/papers/v22/20-447.html">"Thompson Sampling Algorithms for Cascading Bandits"</a> is accepted by the <b>Journal of Machine Learning Research</b>. Joint work with Wang Chi Cheung and Vincent Y.&thinsp;F. Tan. 
 <br> We develop Thompson sampling-based algorithms and minimax lower bounds for cascading bandits and its linear generalization. 
  </li> 
  
