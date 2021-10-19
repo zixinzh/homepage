@@ -55,7 +55,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Research Interests
-Machine learning (e.g., bandit problem)
+Machine learning (e.g., multi-armed bandit problem)
 
 <br/>
 
