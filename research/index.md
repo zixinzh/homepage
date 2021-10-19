@@ -9,6 +9,17 @@ Machine learning (e.g., bandit problem)
 
 <br/>
 
+# Preprints
+<!-- Submitted Manuscripts -->
+<ol reversed>
+<li> <a href="https://arxiv.org/abs/2110.08627">On the Pareto Frontier of Regret Minimization and Best Arm Identification in Stochastic Bandits</a>
+<br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
+<!-- <br> <i>Journal of Machine Learning Research (JMLR)</i> , Vol. 22, No. 218, Pages 1 - 66, Sep 2021 -->
+<!--  July 2021  -->
+ </li> 
+ 
+ </ol> 
+
 # Journal Papers
 <!-- Submitted Manuscripts -->
 <ol reversed>
