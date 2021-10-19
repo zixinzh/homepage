@@ -31,7 +31,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <ul>
 <li> &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640; </li>
  
-<li> Posted a paper on the <a href="https://arxiv.org/abs/2110.08627">Pareto frontier of regret minimization and best arm identification in stochastic bandits</a>. Joint work with Wang Chi Cheung and Vincent Y.&thinsp;F. Tan.
+<li> 19/10/2021: Posted a paper on the <a href="https://arxiv.org/abs/2110.08627">Pareto frontier of regret minimization and best arm identification in stochastic bandits</a>. Joint work with Wang Chi Cheung and Vincent Y.&thinsp;F. Tan.
  </li>
  
 <li> 26/10/2021: Will present our work (proceeding of ICML 2021) in INFORMS 2021 Annual Meeting. 
