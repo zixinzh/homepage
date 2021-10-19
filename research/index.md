@@ -14,7 +14,7 @@ Machine learning (e.g., bandit problem)
 <ol reversed>
 <li> <a href="https://arxiv.org/abs/2110.08627">On the Pareto Frontier of Regret Minimization and Best Arm Identification in Stochastic Bandits</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<!-- <br> <i>Journal of Machine Learning Research (JMLR)</i> , Vol. 22, No. 218, Pages 1 - 66, Sep 2021 -->
+<br> Submitted, October 2021
 <!--  July 2021  -->
  </li> 
  
@@ -25,7 +25,7 @@ Machine learning (e.g., bandit problem)
 <ol reversed>
 <li> <a href="https://jmlr.org/papers/v22/20-447.html">Thompson Sampling Algorithms for Cascading Bandits</a> <a href="https://github.com/zixinzh/2021-JMLR.git">[code]</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
-<br> <i>Journal of Machine Learning Research (JMLR)</i> , Vol. 22, No. 218, Pages 1 - 66, Sep 2021
+<br> <i>Journal of Machine Learning Research (JMLR)</i> , Vol. 22, No. 218, Pages 1 - 66, September 2021
 <!--  July 2021  -->
  </li> 
  
