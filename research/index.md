@@ -19,6 +19,8 @@ Machine learning (e.g., bandit problem)
  </li> 
  
  </ol> 
+ 
+ <br/>
 
 # Journal Papers
 <!-- Submitted Manuscripts -->
