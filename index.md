@@ -26,6 +26,12 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br/>
 
+# Research Interests
+Reinforcement learning, online machine learning (e.g., multi-armed bandit problem)
+
+<br/>
+
+
 # News
 <!-- emoji table: https://gist.github.com/rxaviers/7360908 -->
 <ul>
@@ -54,10 +60,6 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br/>
 
-# Research Interests
-Machine learning (e.g., multi-armed bandit problem)
-
-<br/>
 
 
 
