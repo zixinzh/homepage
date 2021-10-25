@@ -52,7 +52,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <br> We develop Thompson sampling-based algorithms and minimax lower bounds for cascading bandits and its linear generalization. 
  </li> 
  
-<li> 06/2021: began to work as a research fellow with Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung.
+<li> 06/2021: Began to work as a research fellow with Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung.
  </li>
  
 </ul> 
