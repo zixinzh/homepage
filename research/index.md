@@ -5,7 +5,7 @@ layout: base
 <br/>
  
 # Research Interests
-Machine learning (e.g., multi-armed bandit problem)
+Reinforcement learning, online machine learning (e.g., multi-armed bandit problem)
 
 <br/>
 
