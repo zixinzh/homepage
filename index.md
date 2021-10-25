@@ -17,7 +17,7 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 **Email**: zixin.zhong@u.nus.edu
 
 <!-- 📝  -->
-**CV**:   <a href="cv/cv_zixin_zhong_1019_2021_eng.pdf">pdf</a> (updated by 19 Oct 2021)
+**CV**:   <a href="cv/cv_zixin_zhong_1025_2021_eng.pdf">pdf</a> (updated by 25 Oct 2021)
 
 <!---There is no specific format here. You can fill out the form you want.  
 For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
