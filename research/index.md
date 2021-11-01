@@ -9,6 +9,20 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 <br/>
 
+
+# Ph.D Thesis  
+<!-- Ph.&thinsp;D.&thinsp;Thesis --> 
+<ol reversed>
+<li> <a href="https://scholarbank.nus.edu.sg/handle/10635/204935">Performance Guarantees for Online Learning: Cascading Bandits and Adversarial Corruptions</a>
+<br> Supervisors: Prof.&thinsp;Vincent Y.&thinsp;F. Tan, Prof.&thinsp;Wang Chi Cheung
+<br> October 2021 
+ </li> 
+ 
+ </ol> 
+ 
+ <br/> 
+
+
 # Preprints
 <!-- Submitted Manuscripts -->
 <ol reversed>
