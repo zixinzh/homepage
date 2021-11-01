@@ -43,7 +43,8 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <li> 19/10/2021: Posted a paper on the <a href="https://arxiv.org/abs/2110.08627">Pareto frontier of regret minimization and best arm identification in stochastic bandits</a>. Joint work with Wang Chi Cheung and Vincent Y.&thinsp;F. Tan.
  </li>
  
-<li> 20/09/2021: <b>Passed the oral defense</b> of my Ph.&thinsp;D.&thinsp;thesis titled "Performance Guarantees for Online Learning: Cascading Bandits and Adversarial Corruptions". 🎓
+ 
+<li> 20/09/2021: <b>Passed the oral defense</b> of my Ph.&thinsp;D.&thinsp;thesis titled "<a href="https://scholarbank.nus.edu.sg/handle/10635/204935">Performance Guarantees for Online Learning: Cascading Bandits and Adversarial Corruptions</a>". 🎓
  <br> Deep thanks to my incredible supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung! 
  </li>
  
