@@ -64,7 +64,7 @@ aWhite:link {
 }
  
 
-.btn1 {
+btn1.link {
   background-color: #06307a; // Catalina Blue    DodgerBlue; /* Blue background */
   border: none; /* Remove borders */
   border-radius: 4pt;       /* rounding border */
@@ -81,7 +81,7 @@ aWhite:link {
 }
 
 // mouse hanging
-.btn1:hover {
+.btn1:hover { 
   color: white;
   background-color:  #Ff8800; // Pizazz               #Ff9e00;  // orange peel
   text-decoration: underline;
