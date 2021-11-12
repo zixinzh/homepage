@@ -2,7 +2,7 @@
 layout: about
 ---
 
-# About Mee
+# About Me
 Hi! I am currently a Ph.&thinsp;D.&thinsp;candidate at the 
 <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> 
 of
@@ -21,15 +21,14 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 
 
 <!-- <button class="btn"><i class="fa fa-home"></i>HOME</button> -->
-<span class="block-highlight"><b>Email me</b></span> &nbsp;via "zixin dot zhong at u dot nus dot edu"
+<span class="block-highlight"><b>Email me</b></span> &nbsp;zixin dot zhong at u dot nus dot edu
 <!-- <button class="btn">**Email me**</button> &nbsp;&nbsp;&nbsp; via "zixin dot zhong at u dot nus dot edu" -->
 <!-- <br>  -->
 
 <span id="blocktype">
-     <a href="cv/cv_zixin_zhong_1025_2021_eng.pdf"><b>Download CV</b></a> 
-<!--      &nbsp; -->
+     <a href="cv/cv_zixin_zhong_1025_2021_eng.pdf"><b>Download CV</b></a>  
 </span>
-(updated by 25 Oct 2021)
+&nbsp;(updated by 25 Oct 2021)
 <!-- <btn1 href="cv/cv_zixin_zhong_1025_2021_eng.pdf">**Download CV**</btn1> (updated by 25 Oct 2021) -->
 
 
