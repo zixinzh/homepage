@@ -26,7 +26,7 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 <!-- <br>  -->
 
 <div id="blocktype">
-     <a href="cv/cv_zixin_zhong_1025_2021_eng.pdf">**Download CV**</a> (updated by 25 Oct 2021)
+     <a href="cv/cv_zixin_zhong_1025_2021_eng.pdf"><b>Download CV</b></a> (updated by 25 Oct 2021)
 </div>
 <!-- <btn1 href="cv/cv_zixin_zhong_1025_2021_eng.pdf">**Download CV**</btn1> (updated by 25 Oct 2021) -->
 
