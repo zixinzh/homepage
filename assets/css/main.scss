@@ -54,7 +54,7 @@ a:active {
   border: none; /* Remove borders */
   border-radius: 4pt;       /* rounding border: large value, more rounded */
   color: white; /* White text */
-  padding: 1.5px 0px; /* Some padding:  left/right top/bottom */
+  padding: 0px 1.5px; /* Some padding:  left/right top/bottom */
   font-size: 16px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
 }
@@ -64,7 +64,7 @@ a:active {
   border: none; /* Remove borders */
   border-radius: 4pt;       /* rounding border */
   color: white; /* White text */
-  padding: 1.5px 0px; /* Some padding: left/right top/bottom */
+  padding: 0px 1.5px; /* Some padding: left/right top/bottom */
   font-size: 16px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
 }
