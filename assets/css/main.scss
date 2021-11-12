@@ -52,26 +52,30 @@ a:active {
 .btn {
   background-color: #e66817; // DodgerBlue; /* Blue background */
   border: none; /* Remove borders */
-  border-radius: 50%;       /* rounding border */
+  border-radius: 12pt;       /* rounding border */
   color: white; /* White text */
-  padding: 6px 16px; /* Some padding */
+  padding: 2px 2px; /* Some padding: top/bottom left/right */
   font-size: 16px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
 }
-.btn1 {border-radius: 50%;}
+
+.btn1 {border-radius: 12pt;}
 
 /* Darker background on visited */
-.btn:visited {
+.btn1:visited {
+  color: white;
   background-color: RoyalBlue; 
 }
 
 // mouse hanging
-.btn:hover {
+.btn1:hover {
+  color: white;
   background-color:  #Ff8800; // Pizazz               #Ff9e00;  // orange peel
   text-decoration: underline;
 } 
 
 // btw mouse click & release
-.btn:active {
-  color:  #Ff9e00;  // orange peel             #Ffb400; // Selective Yellow 
+.btn1:active {
+  color: white;
+  background-color:  #Ff9e00;  // orange peel             #Ffb400; // Selective Yellow 
 }
