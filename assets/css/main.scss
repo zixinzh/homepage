@@ -13,14 +13,14 @@
 
 // set colors of links
 a:link {
-  color: #e66817; // #eb7b33; // #d46f2e; // #b34600; // #Ff6400; // Blaze Orange             #Ff8800; // Pizazz
+  color: #06307a; // Catalina Blue                      #041255; // Gulf Blue  
   background-color: transparent;
   text-decoration: none;
 //   font-weight: bold;
 }
 
 a:visited {
-  color: #06307a; // Catalina Blue                      #041255; // Gulf Blue                
+  color: #e66817; // #eb7b33; // #d46f2e; // #b34600; // #Ff6400; // Blaze Orange             #Ff8800; // Pizazz               
   background-color: transparent;
   text-decoration: none;
 //   font-weight: bold;
@@ -64,7 +64,7 @@ aWhite:link {
 }
  
 
-btn1.link {
+#blocktype a:link {
   background-color: #06307a; // Catalina Blue    DodgerBlue; /* Blue background */
   border: none; /* Remove borders */
   border-radius: 4pt;       /* rounding border */
@@ -75,20 +75,20 @@ btn1.link {
 }
 
 /* Darker background on visited */
-.btn1:visited {
+#blocktype a:visited {
   color: white;
   background-color: RoyalBlue; 
 }
 
 // mouse hanging
-.btn1:hover { 
+#blocktype a:hover { 
   color: white;
   background-color:  #Ff8800; // Pizazz               #Ff9e00;  // orange peel
   text-decoration: underline;
 } 
 
 // btw mouse click & release
-.btn1:active {
+#blocktype a:active {
   color: white;
   background-color:  #Ff9e00;  // orange peel             #Ffb400; // Selective Yellow 
 }
