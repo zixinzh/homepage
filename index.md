@@ -14,16 +14,16 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 <!--**Hometown**: Zhanjiang City, Guangdong Province, China -->
 
 <!-- :envelope:  -->
-**Email**: zixin.zhong@u.nus.edu
+**Email**: zixin.zhong@u.nus.edu 
 
 <!-- 📝  -->
 **CV**:   <a href="cv/cv_zixin_zhong_1025_2021_eng.pdf">pdf</a> (updated by 25 Oct 2021)  
 
 
 <!-- <button class="btn"><i class="fa fa-home"></i>HOME</button> -->
-<!-- <button class="btn">**Email me**</button> zixin dot zhong at u dot nus dot edu 
+<!-- <button class="btn">**Email me**</button> zixin dot zhong at u dot nus dot edu  -->
 
-<button class="btn1" href="cv/cv_zixin_zhong_1025_2021_eng.pdf">**Download CV**</button> (updated by 25 Oct 2021) -->
+<!-- <button class="btn1" href="cv/cv_zixin_zhong_1025_2021_eng.pdf">**Download CV**</button> (updated by 25 Oct 2021) -->
 
 
 
