@@ -50,15 +50,27 @@ a:active {
 
 /* Style buttons */
 .btn {
-  background-color: DodgerBlue; /* Blue background */
+  background-color: #e66817; // DodgerBlue; /* Blue background */
   border: none; /* Remove borders */
+  border-radius: 50%;       /* rounding border */
   color: white; /* White text */
-  padding: 12px 16px; /* Some padding */
+  padding: 6px 16px; /* Some padding */
   font-size: 16px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
 }
 
-/* Darker background on mouse-over */
+/* Darker background on visited */
+.btn:visited {
+  background-color: RoyalBlue; 
+}
+
+// mouse hanging
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color:  #Ff8800; // Pizazz               #Ff9e00;  // orange peel
+  text-decoration: underline;
+} 
+
+// btw mouse click & release
+.btn:active {
+  color:  #Ff9e00;  // orange peel             #Ffb400; // Selective Yellow 
 }
