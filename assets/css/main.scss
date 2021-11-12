@@ -49,8 +49,12 @@ a:active {
 
 
 /* Style buttons */
+aWhite:link {
+  color: white;
+}
+
 .btn {
-  background-color:  #DCDCDC; /* Gainsboro background */
+  background-color:  DodgerBlue; /* Blue background */ #DCDCDC; /* Gainsboro background */
   border: none; /* Remove borders */
   border-radius: 4pt;       /* rounding border: large value, more rounded */
   color: white; /* White text */
