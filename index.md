@@ -47,7 +47,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <li> &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640; </li>
  
  <li> 26/10/2021: Presented our work (proceeding of ICML 2021) in INFORMS 2021 Annual Meeting. 
-  <br> Time: 2:45 PM - 4:15 PM (PDT)  </li> 
+  <br> Time: 2:45 PM - 4:15 PM (PDT)  </li>  
  
 <li> 19/10/2021: Posted a paper on the <a href="https://arxiv.org/abs/2110.08627">Pareto frontier of regret minimization and best arm identification in stochastic bandits</a>. Joint work with Wang Chi Cheung and Vincent Y.&thinsp;F. Tan.
  </li>
