@@ -20,7 +20,7 @@ a:link {
 }
 
 a:visited {
-  color: #e66817; // #eb7b33; // #d46f2e; // #b34600; // #Ff6400; // Blaze Orange             #Ff8800; // Pizazz               
+  color: RoyalBlue; // #e66817; // #eb7b33; // #d46f2e; // #b34600; // #Ff6400; // Blaze Orange             #Ff8800; // Pizazz               
   background-color: transparent;
   text-decoration: none;
 //   font-weight: bold;
@@ -74,7 +74,7 @@ a:active {
 /* Darker background on visited */
 #blocktype a:visited {
   color: white;
-  background-color: #e66817; // RoyalBlue; 
+  background-color: RoyalBlue;  // #e66817; // RoyalBlue; 
 }
 
 // mouse hanging
