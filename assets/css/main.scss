@@ -50,7 +50,7 @@ a:active {
 
 /* Style buttons */
 .btn {
-  background-color:  DodgerBlue; /* Blue background */
+  background-color:  #DCDCDC; /* Gainsboro background */
   border: none; /* Remove borders */
   border-radius: 4pt;       /* rounding border: large value, more rounded */
   color: white; /* White text */
@@ -58,6 +58,16 @@ a:active {
   font-size: 16px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
 }
+
+// .btn {
+//   background-color:  DodgerBlue; /* Blue background */
+//   border: none; /* Remove borders */
+//   border-radius: 4pt;       /* rounding border: large value, more rounded */
+//   color: white; /* White text */
+//   padding: 0px 1.5px; /* Some padding:  left/right top/bottom */
+//   font-size: 16px; /* Set a font size */
+//   cursor: pointer; /* Mouse pointer on hover */
+// }
 
 .btn1 {
   background-color: DodgerBlue; /* Blue background */
