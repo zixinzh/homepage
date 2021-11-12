@@ -21,12 +21,12 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 
 
 <!-- <button class="btn"><i class="fa fa-home"></i>HOME</button> -->
-<span class="block-highlight">Email me</span> &nbsp;via "zixin dot zhong at u dot nus dot edu"
+<span class="block-highlight"><b>Email me</b></span> &nbsp;via "zixin dot zhong at u dot nus dot edu"
 <!-- <button class="btn">**Email me**</button> &nbsp;&nbsp;&nbsp; via "zixin dot zhong at u dot nus dot edu" -->
 <!-- <br>  -->
 
 <span id="blocktype">
-     <a href="cv/cv_zixin_zhong_1025_2021_eng.pdf">Download CV</a> 
+     <a href="cv/cv_zixin_zhong_1025_2021_eng.pdf"><b>Download CV</b></a> 
 <!--      &nbsp; -->
 </span>
 (updated by 25 Oct 2021)
