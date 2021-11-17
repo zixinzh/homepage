@@ -22,7 +22,7 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 
 <!-- <button class="btn"><i class="fa fa-home"></i>HOME</button> -->
 <span class="block-highlight"><b>&thinsp;Email&thinsp;</b></span> &nbsp;zixin dot zhong at u dot nus dot edu
-<!-- <button class="btn">**Email me**</button> &nbsp;&nbsp;&nbsp; via "zixin dot zhong at u dot nus dot edu" -->
+<!-- <button class="btn">**Email me**</button> &nbsp;&nbsp;&nbsp; via "zixin dot zhong at u.nus.edu" -->
 <!-- <br>  -->
 
 <span id="blocktype">
