@@ -103,7 +103,8 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <ul>
 <li> National University of Singapore (NUS), 2017/08 - 2021/10
    <ul>
-    <li> Ph.&thinsp;D. candidate, <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> 
+    <li> Ph.&thinsp;D., <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>   
+<!--          candidate -->
       <br> Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     </li>
    </ul>
