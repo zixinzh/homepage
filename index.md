@@ -3,8 +3,10 @@ layout: about
 ---
 
 # About Me
-Hi! I am currently a Ph.&thinsp;D.&thinsp;candidate at the 
-<a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> 
+<!-- Hi! I am currently a Ph.&thinsp;D.&thinsp;candidate at the 
+<a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>  -->
+Hi! I am currently a research fellow at the 
+<a href="https://www.eng.nus.edu.sg/ece/">Department of Electrical and Computer Engineering</a> 
 of
 <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>, 
 working with 
@@ -51,7 +53,9 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- emoji table: https://gist.github.com/rxaviers/7360908 -->
 <ul>
 <li> &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640; </li>
- 
+
+ <li> 31/10/2021: My Ph.&thinsp;D.&thinsp;degree conferred.  </li>       
+     
  <li> 26/10/2021: Presented our work (proceeding of ICML 2021) in INFORMS 2021 Annual Meeting. 
   <br> Time: 2:45 PM - 4:15 PM (PDT)  </li>  
  
@@ -82,7 +86,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <ul>
 <li> National University of Singapore (NUS), 2021/06 - present
    <ul>
-    <li> Research fellow, <a href="https://www.eng.nus.edu.sg/ece/">Department of Electrical and Computer Engineering</a> 
+    <li> Research fellow, Department of Electrical and Computer Engineering
       <br> Working with Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung  
     </li>
    </ul>
@@ -97,9 +101,9 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 # Education
 
 <ul>
-<li> National University of Singapore (NUS), 2017/08 - present
+<li> National University of Singapore (NUS), 2017/08 - 2021/10
    <ul>
-    <li> Ph.&thinsp;D. candidate, Department of Mathematics
+    <li> Ph.&thinsp;D. candidate, <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> 
       <br> Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     </li>
    </ul>
