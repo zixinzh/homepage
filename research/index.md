@@ -88,6 +88,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 # Professional Activities
 <ol reversed>
+<li> Reviewer of <i>International Conference on Machine Learning (ICML)</i>, 2022   </li>
 <li> Reviewer of <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2022   </li>
 <li> Reviewer of <i>International Conference on Learning Representations (ICLR)</i>, 2022   </li>
 <li> Reviewer of <i>Neural Information Processing Systems (NeurIPS)</i>, 2021  </li>
