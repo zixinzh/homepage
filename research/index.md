@@ -30,7 +30,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- Submitted Manuscripts -->
 <ol reversed>
 <li> <a href="https://arxiv.org/abs/2201.10142">Almost Optimal Variance-Constrained Best Arm Identification</a>
-<br> Yun Long, Vincent Y.&thinsp;F. Tan, and <b>Zixin Zhong*</b>
+<br> Yunlong Hou, Vincent Y.&thinsp;F. Tan, and <b>Zixin Zhong*</b>
 <br> Submitted, January 2022
 <!--  July 2021  -->
  </li> 
