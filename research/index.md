@@ -69,7 +69,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 # Conference Papers
 <ol reversed>
 <li> <a href="http://proceedings.mlr.press/v139/zhong21a.html">Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm for Stochastic Bandits with Corruptions</a> 
-  <a href="cv/corrupBAI_talk_12_min.mp4">[video</a>,
+  <a href="./cv/corrupBAI_talk_12_min.mp4">[video</a>,
  <a href="https://github.com/zixinzh/2021-ICML.git">code]</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
 <br> <i>International Conference on Machine Learning (ICML)</i>, Virtual, 18-24 July 2021
