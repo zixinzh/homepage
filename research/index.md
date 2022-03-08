@@ -105,6 +105,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <li> Reviewer of <i>Neural Information Processing Systems (NeurIPS)</i>, 2021  </li>
 <li> Reviewer of <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2021  </li>
 <li> Reviewer of <i>IEEE Transactions on Information Theory (TIT)</i>  </li>
+<li> Reviewer of <i>IEEE Transactions on Signal Processing (TSP)</i>  </li>
  </ol>
 
 <br/>
