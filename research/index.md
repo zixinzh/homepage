@@ -23,6 +23,19 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
  
  <br/> 
  
+ 
+ # Tutorials
+<ol reversed>
+<li> Pure Exploration in Multi-Armed Bandits 
+<br> <b>Zixin Zhong</b>
+<br> <i>International Joint Conference on Artificial Intelligence (IJCAI)</i>, Messe Wien, Vienna, Austria, July 23 - 29, 2022
+ </li> 
+ 
+ </ol> 
+ 
+ <br/> 
+ 
+ 
  *: Corresponding author
 
 
