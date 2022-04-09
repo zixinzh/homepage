@@ -18,13 +18,13 @@ layout: base
  </ol> -->
  
 # Pure Exploration in Multi-Armed Bandits
-:studio_microphone: &nbsp;
+🎙️ &nbsp;
 <b> Zixin Zhong </b> 
-<br>
-&nbsp;:round_pushpin: &nbsp;
+<br> 
+&nbsp; &nbsp; 📍
 <i> International Joint Conference on Artificial Intelligence (IJCAI) </i>, Messe Wien, Vienna, Austria, July 23 - 29, 2022
  
-<button type="button" class="collapsible">:paperclip: More info</button>
+<button type="button" class="collapsible">📎 More info</button>
 <div class="content">
   <p>Lorem ipsum...</p>
 </div>
