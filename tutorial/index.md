@@ -24,7 +24,7 @@ layout: base
 &nbsp;:round_pushpin: &nbsp;
 <i> International Joint Conference on Artificial Intelligence (IJCAI) </i>, Messe Wien, Vienna, Austria, July 23 - 29, 2022
  
-<button type="button" class="collapsible">:paperclip: Expand</button>
+<button type="button" class="collapsible">:paperclip: More info</button>
 <div class="content">
   <p>Lorem ipsum...</p>
 </div>
