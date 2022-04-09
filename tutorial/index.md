@@ -18,7 +18,10 @@ This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 <details>
-<summary><span style="background-color:blue">More info</span></summary>
+<summary>
+  More info
+<!--   <span style="background-color:blue">More info</span> -->
+  </summary>
          &nbsp;&nbsp;&nbsp;&nbsp;will be found here.
 <!-- <figure class="highlight"> -->
 <!--     <pre> -->
