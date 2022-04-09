@@ -13,7 +13,7 @@ working with
 Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
 Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wang Chi Cheung</a>.
 <br>
-Feel free to reach me at <b>"zixin dot zhong at u.nus.edu"</b> and download my latest <a href="cv/cv_zixin_zhong_1208_2021_eng.pdf"><b>CV</b></a> (updated by 08 Dec 2021) here.
+Feel free to reach me at <b>"zixin dot zhong at u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_1208_2021_eng.pdf"><b>CV</b></a> (updated by 08 Dec 2021) here.
 
 <!--**Hometown**: Zhanjiang City, Guangdong Province, China -->
 
