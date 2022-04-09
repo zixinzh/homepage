@@ -24,7 +24,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
  <br/> 
  
  
- # Tutorials
+# Tutorials
 <ol reversed>
 <li> Pure Exploration in Multi-Armed Bandits 
 <br> <b>Zixin Zhong</b>
