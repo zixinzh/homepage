@@ -12,6 +12,8 @@ of
 working with 
 Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
 Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wang Chi Cheung</a>.
+<br>
+Feel free to reach me at <b>"zixin dot zhong at u.nus.edu"</b> and download my latest <a href="cv/cv_zixin_zhong_1208_2021_eng.pdf"><b>CV</b></a> (updated by 08 Dec 2021) here.
 
 <!--**Hometown**: Zhanjiang City, Guangdong Province, China -->
 
@@ -23,14 +25,17 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 
 
 <!-- <button class="btn"><i class="fa fa-home"></i>HOME</button> -->
-<span class="block-highlight"><b>&thinsp;Email&thinsp;</b></span> &nbsp;zixin dot zhong at u.nus.edu
+<!-- <span class="block-highlight"><b>&thinsp;Email&thinsp;</b></span> &nbsp;zixin dot zhong at u.nus.edu -->
 <!-- <button class="btn">**Email me**</button> &nbsp;&nbsp;&nbsp; via "zixin dot zhong at u dot nus dot edu" -->
 <!-- <br>  -->
+
+
+<!-- <span class="block-highlight"><b>&thinsp;Email&thinsp;</b></span> &nbsp;zixin dot zhong at u.nus.edu
 
 <span id="blocktype">
      <a href="cv/cv_zixin_zhong_1208_2021_eng.pdf"><b>&thinsp;CV Download&thinsp;</b></a>  &nbsp;
 </span>
-(updated by 08 Dec 2021)
+(updated by 08 Dec 2021) -->
 <!-- <btn1 href="cv/cv_zixin_zhong_1025_2021_eng.pdf">**Download CV**</btn1> (updated by 25 Oct 2021) -->
 
 
