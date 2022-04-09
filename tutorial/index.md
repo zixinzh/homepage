@@ -21,7 +21,7 @@ layout: base
 🎙️ &nbsp;
 <b> Zixin Zhong </b> 
 <br> 
-&nbsp; &nbsp; 📍
+&nbsp;📍 &nbsp; 
 <i> International Joint Conference on Artificial Intelligence (IJCAI) </i>, Messe Wien, Vienna, Austria, July 23 - 29, 2022
  
 <button type="button" class="collapsible">📎 More info</button>
