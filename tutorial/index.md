@@ -19,10 +19,10 @@ This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB
 
 <details>
 <summary>
-  More info
+  <span style="font-family:$serif-primary; font-color:$default-shade;">More info</span>
 <!--   <span style="background-color:blue">More info</span> -->
   </summary>
-         &nbsp;&nbsp;&nbsp;&nbsp;will be found here.
+         &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family:$serif-primary; font-color:$default-shade;">will be found here.</span>
 <!-- <figure class="highlight"> -->
 <!--     <pre> -->
 <!--         <code class="language-ruby" data-lang="ruby"> -->
