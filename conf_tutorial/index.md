@@ -6,7 +6,7 @@ layout: base
   
  
 # Pure Exploration in Multi-Armed Bandits
-&nbsp;📍 <!-- &thinsp; -->
+&thinsp;📍&thinsp;
 <i> International Joint Conference on Artificial Intelligence (IJCAI) </i>, Messe Wien, Vienna, Austria, July 23 - 29, 2022
 <br>
 🎓 <!--  %🎙️ &thinsp; -->
