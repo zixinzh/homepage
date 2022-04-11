@@ -19,7 +19,7 @@ This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB
 
 <details>
 <summary> 
-  <span style="class:body;">More information</span>
+  <span style="class:body;">More info</span>
 <!--   <span style="font-family:serif-primary; font-color:default-shade;">More info</span> -->
 <!--   <span style="background-color:blue">More info</span> -->
   </summary>
