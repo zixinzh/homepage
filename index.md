@@ -174,8 +174,8 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 # Honors and Awards
 
 * NUS Research Scholarship, 2017/08 - 2021/06
-* National Merit Scholarship, China, 2014
-* First Class Scholarship, SYSU, 2014 and 2015
+* China National Scholarship, 2014
+* SYSU First Class Scholarship, 2014 and 2015
 
 <!--
 | <! -- -- > |  <! -- -- > | 
