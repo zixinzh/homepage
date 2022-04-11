@@ -19,11 +19,14 @@ This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB
 
 <!-- <details>
 <summary> 
-  <body>More info</body>
-<!--   <span style="font-family:serif-primary; font-color:default-shade;">More info</span> -->
-<!--   <span style="background-color:blue">More info</span> -->
+  <span style="font-family:serif-primary; font-color:default-color; font-size:16px;">More info</span>
   </summary>
          &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family:serif-primary; font-color:default-color; font-size:16px;">will be posted here.</span>
+</details> -->
+<!-- <details>
+<summary>   -->
+<!--   <span style="font-family:serif-primary; font-color:default-shade;">More info</span> -->
+<!--   <span style="background-color:blue">More info</span> --> 
 <!-- <figure class="highlight"> -->
 <!--     <pre> -->
 <!--         <code class="language-ruby" data-lang="ruby"> -->
@@ -31,5 +34,5 @@ This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB
 <!--         </code> -->
 <!--     </pre> -->
 <!-- </figure> -->
-</details> -->
+<!-- </details> -->
   
