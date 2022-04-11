@@ -6,13 +6,13 @@ layout: base
   
  
 # Pure Exploration in Multi-Armed Bandits
-&nbsp;📍 &thinsp;
+&nbsp;📍 <!-- &thinsp; -->
 <i> International Joint Conference on Artificial Intelligence (IJCAI) </i>, Messe Wien, Vienna, Austria, July 23 - 29, 2022
 <br>
-🎙️ &thinsp;
+🎓 <!--  %🎙️ &thinsp; -->
 <b> Zixin Zhong </b> 
 <br>
-&#128172;&thinsp;
+&#128172;<!-- &thinsp; -->
 This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB) problem. It is intended to introduce the background, several state-of-the-art algorithms and their theoretical guarantees, and some fundamental analytical techniques in this area.
 <!-- <b>Abstract </b> 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
