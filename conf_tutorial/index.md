@@ -17,7 +17,7 @@ This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB
 <!-- <b>Abstract </b> 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
-<details>
+<!-- <details>
 <summary> 
   <body>More info</body>
 <!--   <span style="font-family:serif-primary; font-color:default-shade;">More info</span> -->
@@ -31,5 +31,5 @@ This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB
 <!--         </code> -->
 <!--     </pre> -->
 <!-- </figure> -->
-</details>
+</details> -->
   
