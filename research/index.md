@@ -122,12 +122,28 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
   </tr>
 </table> -->
 
+<b>Conference Reviewer</b>
+<br>
 2022 &nbsp; <i>International Conference on Machine Learning (ICML)</i>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Learning Representations (ICLR)</i>
+<br>
+2021 &nbsp; <i>Neural Information Processing Systems (NeurIPS)</i>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
+
+<b>Journal Reviewer</b>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>IEEE Transactions on Information Theory (TIT)</i>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>IEEE Transactions on Signal Processing (TSP)</i>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Transactions on Machine Learning Research (TMLR)</i>
 
 
-<ol reversed>
+<!-- <ol reversed>
 <li> Reviewer of <i>International Conference on Machine Learning (ICML)</i>, 2022   </li>
 <li> Reviewer of <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2022   </li>
 <li> Reviewer of <i>International Conference on Learning Representations (ICLR)</i>, 2022   </li>
@@ -136,7 +152,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <li> Reviewer of <i>IEEE Transactions on Information Theory (TIT)</i>  </li>
 <li> Reviewer of <i>IEEE Transactions on Signal Processing (TSP)</i>  </li>
 <li> Reviewer of <i>Transactions on Machine Learning Research (TMLR)</i> </li>
- </ol>
+ </ol> -->
 
 <br/>
 
