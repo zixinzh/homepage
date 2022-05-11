@@ -44,7 +44,7 @@ layout: base
 * **Language**   English, Mandarin, Cantonese  -->
 **Progaramming**&nbsp;  Python, Matlab, LaTeX, R, C/C++
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;**Language**&nbsp;   English, Mandarin, Cantonese 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;**Language**&nbsp;   English, Mandarin, Cantonese 
 
 
 
