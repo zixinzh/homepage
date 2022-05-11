@@ -111,6 +111,22 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 
 # Professional Activities
+<!-- <table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>2022</td>
+    <td><i>International Conference on Machine Learning (ICML)</i></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td><i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i></td>
+  </tr>
+</table> -->
+
+2022 &nbsp; <i>International Conference on Machine Learning (ICML)</i>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
+
+
 <ol reversed>
 <li> Reviewer of <i>International Conference on Machine Learning (ICML)</i>, 2022   </li>
 <li> Reviewer of <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2022   </li>
