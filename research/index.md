@@ -27,7 +27,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 # Tutorials
 <ol reversed>
 <li> Pure Exploration in Multi-Armed Bandits 
-<br> <b>Zixin Zhong</b>
+<br> <b>Vincent Y.&thinsp;F. Tan</b>, Zixin Zhong
 <br> <i>International Joint Conference on Artificial Intelligence (IJCAI)</i>, Messe Wien, Vienna, Austria, July 23 - 29, 2022
  </li> 
  
@@ -124,7 +124,9 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 <b>Conference Reviewer</b>
 <br>
-2022 &nbsp; <i>International Conference on Machine Learning (ICML)</i>
+2022 &nbsp; <i>Neural Information Processing Systems (NeurIPS)</i>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Machine Learning (ICML)</i>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
 <br>
