@@ -66,7 +66,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 
 <li> 08/04/2022: Tutorial proposal on "Pure Exploration in Multi-Armed Bandits" just accepted by IJCAI 2022! 
-     <br> This tutorial will be delivered by Vincent. Sincerehanks for his help!
+     <br> This tutorial will be delivered by Vincent. Sincere thanks for Vincent's help!
 <!--      I will be the single presenter. -->
      </li>
      
