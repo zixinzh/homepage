@@ -12,7 +12,7 @@ layout: base
 🎫 11:15-12:30 AM -- Lehar 4, July 25
 <br>
 🎓&thinsp; <!--  %🎙️ &thinsp; -->
-<b> Vincent Y.&thinsp;F.&thinsp;Tan</b>, Zixin Zhong 
+<b> Vincent Y.&thinsp;F. Tan</b>, Zixin Zhong 
 <br>
 &#128172;&thinsp;<!-- &thinsp; -->
 This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB) problem. It is intended to introduce the background, several state-of-the-art algorithms and their theoretical guarantees, and some fundamental analytical techniques in this area.
