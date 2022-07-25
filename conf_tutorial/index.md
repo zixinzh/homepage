@@ -16,6 +16,9 @@ layout: base
 <br>
 &#128172;&thinsp;<!-- &thinsp; -->
 This tutorial (1:45h) focuses on pure exploration of the multi-armed bandit (MAB) problem. It is intended to introduce the background, several state-of-the-art algorithms and their theoretical guarantees, and some fundamental analytical techniques in this area.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Slides are available <a href="/pre_tutorial_bai.pdf"><b>here</b></a>.
 <!-- <b>Abstract </b> 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
