@@ -5,13 +5,24 @@ layout: about
 # About Me
 <!-- Hi! I am currently a Ph.&thinsp;D.&thinsp;candidate at the
 <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>  -->
-Hi! I am currently a research fellow at the 
+<!-- Hi! I am currently a research fellow at the 
 <a href="https://www.eng.nus.edu.sg/ece/">Department of Electrical and Computer Engineering</a> 
 of
 <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>, 
 working with 
 Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
-Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wang Chi Cheung</a>.
+Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wang Chi Cheung</a>. -->
+<!--  -->
+<!--  -->
+<!--  -->
+I am a postdoctoral fellow at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a> supervised by Prof.&thinsp;<a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>. 
+<br>
+I was privileged to be supervised by 
+Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
+Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wang Chi Cheung</a>
+during my PhD study at the
+<a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>.
+I heartfully admire their support and encouragement.
 <br>
 Feel free to reach me at <b>"zixin dot zhong at u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_1208_2021_eng.pdf"><b>CV</b></a> (updated by 08 Dec 2021) here.
 
@@ -63,7 +74,10 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- <li> &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640; </li>
  -->
      
-
+<li> 25/07/2022: I just joined Csaba's team as a postdoctoral fellow.
+     <br> Thanks so much for the opportunity!
+<!--      I will be the single presenter. -->
+     </li>
 
 <li> 08/04/2022: Tutorial proposal on "Pure Exploration in Multi-Armed Bandits" just accepted by IJCAI 2022! 
      <br> This tutorial will be delivered by Vincent. Sincere thanks for Vincent's help!
@@ -103,10 +117,18 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 # Work Experience
 <ul>
-<li> National University of Singapore (NUS), 2021/06 - present
+     
+<li> University of Alberta, 2022/07 - Present
+   <ul>
+    <li> Postdoctoral fellow, <a href="https://www.ualberta.ca/computing-science/index.html">Department of Computing Science</a>
+      <br> Supervisor: Prof. Csaba Szepesvári (also leading the Foundations team at DeepMind)
+    </li>
+   </ul>
+ </li>
+<li> National University of Singapore (NUS), 2021/06 - 2022/07
    <ul>
     <li> Research fellow, Department of Electrical and Computer Engineering
-      <br> Working with Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung  
+      <br> Supervisors: Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung  
     </li>
    </ul>
  </li>
