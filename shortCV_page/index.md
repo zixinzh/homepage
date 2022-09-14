@@ -21,4 +21,4 @@ during her PhD study and she worked with them as a research fellow between June 
 
 
 Zixin's research interests are in reinforcement learning, online machine learning and, in particular, the multi-armed bandits. Her work has been presented at top machine learning (ML) conferences including ICML and AISTATS, and also in top ML journals such as the Journal of Machine Learning Research (JMLR).
-She also serves as a reviewer for several conferences and journals including (in alphabetical order) AISTATS, ICLR, ICML, NeurIPS, and TIT.
+She also serves as a reviewer for several conferences and journals including (in alphabetical order) AISTATS, ICLR, ICML, NeurIPS, TIT, TSP, and TMLR.
