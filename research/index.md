@@ -61,6 +61,14 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 # Journal Papers
 <!-- Submitted Manuscripts -->
 <ol reversed>
+ 
+<li> Fast Beam Alignment via Pure Exploration in Multi-armed Bandits (journal version)
+<br> Yi Wei, <b>Zixin Zhong*</b>, and Vincent Y.&thinsp;F. Tan
+<br> <i>IEEE Transactions on Wireless Communications (IEEE TWC)</i>
+ </li>
+
+ 
+ 
 <li> <a href="https://jmlr.org/papers/v22/20-447.html">Thompson Sampling Algorithms for Cascading Bandits</a> 
  <a href="https://github.com/zixinzh/2021-JMLR.git">[code]</a> 
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
@@ -81,6 +89,11 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 # Conference Papers
 <ol reversed>
+<li> Fast Beam Alignment via Pure Exploration in Multi-armed Bandits
+<br> Yi Wei, <b>Zixin Zhong</b>, and Vincent Y.&thinsp;F. Tan
+<br> <i>IEEE International Symposium on Information Theory (ISIT)</i>, Aalto, Finland, 26 June-1 July 2022
+ </li>
+ 
 <li> <a href="http://proceedings.mlr.press/v139/zhong21a.html">Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm for Stochastic Bandits with Corruptions</a> 
   <a href="../cv/corrupBAI_talk_12_min.mp4">[video</a>,
  <a href="https://github.com/zixinzh/2021-ICML.git">code]</a>
