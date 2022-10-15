@@ -62,7 +62,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- Submitted Manuscripts -->
 <ol reversed>
  
-<li> Fast Beam Alignment via Pure Exploration in Multi-armed Bandits (journal version)
+<li> Fast Beam Alignment via Pure Exploration in Multi-armed Bandits (Journal Version)
 <br> Yi Wei, <b>Zixin Zhong*</b>, and Vincent Y.&thinsp;F. Tan
 <br> <i>IEEE Transactions on Wireless Communications (IEEE TWC)</i>, Accepted in October 2022
  </li>
