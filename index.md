@@ -24,7 +24,7 @@ during my PhD study at the
 <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>.
 I heartfully admire their support and encouragement.
 <br>
-Feel free to reach me at <b>"zixin dot zhong at u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_2022_07_27_eng.pdf"><b>CV</b></a> (updated by 27 Jul 2022) here.
+Feel free to reach me at <b>"zixin dot zhong at u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_2022_10_14_eng.pdf"><b>CV</b></a> (updated by 14 Oct 2022) here.
 
 <!--**Hometown**: Zhanjiang City, Guangdong Province, China -->
 
@@ -74,12 +74,17 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- <li> &#128640; &#128640; &#128640; <strong>Open to job market!</strong> &#128640; &#128640; &#128640; </li>
  -->
      
-<li> 25/07/2022: I just joined Csaba's team as a postdoctoral fellow.
+<li> 14/10/2022: Paper "Fast Beam Alignment via Pure Exploration in Multi-armed Bandits" (journal version) accepted by <b>IEEE Transactions on Wireless Communications (IEEE TWC)</b>. Joint work with Wei Yi and Vincent Y.&thinsp;F. Tan.       
+     </li>
+
+<li> 10/2022: Go to attend the <a href="https://risingstars.utexas.edu/">Rising Stars Workshop</a> at the University of Texas at Austin.
+     
+<li> 25/07/2022: Join Csaba's team as a postdoctoral fellow.
      <br> Thanks so much for the opportunity!
 <!--      I will be the single presenter. -->
      </li>
 
-<li> 08/04/2022: Tutorial proposal on "Pure Exploration in Multi-Armed Bandits" just accepted by IJCAI 2022! 
+<li> 08/04/2022: Tutorial proposal on "Pure Exploration in Multi-Armed Bandits" just accepted by <b>IJCAI</b> 2022! 
      <br> This tutorial will be delivered by Vincent. Sincere thanks for Vincent's help!
 <!--      I will be the single presenter. -->
      </li>
