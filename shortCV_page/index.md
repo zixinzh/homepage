@@ -11,7 +11,7 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 
 
 
-Zixin Zhong was born in China in 1995. She is a postdoctoral fellow at the <a href="https://www.ualberta.ca/computing-science/index.html">the Department of Computing Science</a> of the <a href="https://www.ualberta.ca/index.html">University of Alberta</a>. She is supervised by Prof.&thinsp;<a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>. 
+Zixin Zhong was born in China in 1995. She is a postdoctoral fellow at the <a href="https://www.ualberta.ca/computing-science/index.html">the Department of Computing Science</a> of the <a href="https://www.ualberta.ca/index.html">University of Alberta</a> and is supervised by Prof.&thinsp;<a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>. 
 Dr.&thinsp;Zhong received her PhD degree from the <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> of the <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a> in October 2021.
 Zixin was privileged to be supervised by 
 Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
