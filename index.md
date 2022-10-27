@@ -81,6 +81,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
      </li>
 
 <li> 10/2022: Go to attend the <a href="https://risingstars.utexas.edu/">Rising Stars Workshop</a> at the University of Texas at Austin.
+     </li>
      
 <li> 25/07/2022: Join Csaba's team as a postdoctoral fellow.
      <br> Thanks so much for the opportunity!
