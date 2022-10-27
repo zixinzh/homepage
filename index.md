@@ -75,7 +75,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
  -->
 
 
-<!-- <li> 10/2022: Recognized as a top reviewer of <b>NeurIPS 2022</b>.      -->
+<!-- <li> 10/2022: Recognized as a top reviewer of <b>NeurIPS 2022</b>.  </li>    -->
      
 <li> 14/10/2022: Paper "Fast Beam Alignment via Pure Exploration in Multi-armed Bandits" (journal version) accepted by <b>IEEE Transactions on Wireless Communications (IEEE TWC)</b>. Joint work with Wei Yi and Vincent Y.&thinsp;F. Tan.       
      </li>
