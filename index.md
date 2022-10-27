@@ -115,7 +115,8 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <li> 06/2021: Began to work as a research fellow with Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung.
  </li> -->
  
-</ul> 
+</ul>
+
 <!--  <a href="https://github.com/zixinzh/2021-JMLR.git">[code]</a> -->
 
 <br/>
