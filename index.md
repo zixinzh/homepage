@@ -93,7 +93,8 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
      </li>
      
  <li> 31/10/2021: My Ph.&thinsp;D.&thinsp;degree conferred.  🎓
- <br> Deep thanks to my incredible supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung!  </li>  
+ <br> Deep thanks to my incredible supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung!  
+     </li>  
      
      
      
