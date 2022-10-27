@@ -144,7 +144,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
   
 </ul> 
 
- 
+  
 
 <br/>
 
