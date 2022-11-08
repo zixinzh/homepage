@@ -75,9 +75,12 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
  -->
 
 
-<!-- <li> 10/2022: Recognized as a top reviewer of <b>NeurIPS 2022</b>.  </li>    -->
+<li> 10/2022: Recognized as a <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">top reviewer</a> of <b>NeurIPS 2022</b>.  </li>
      
-<li> 14/10/2022: Paper "Fast Beam Alignment via Pure Exploration in Multi-armed Bandits" (journal version) accepted by <b>IEEE Transactions on Wireless Communications (IEEE TWC)</b>. Joint work with Wei Yi and Vincent Y.&thinsp;F. Tan.       
+<li> 14/10/2022: Paper <a href="https://arxiv.org/abs/2201.10142">"Almost Optimal Variance-Constrained Best Arm Identification"</a> accepted by <b>IEEE Transactions on Information Theory (IEEE TIT)</b>. Joint work with Yunlong Hou and Vincent Y.&thinsp;F. Tan.       
+     </li>
+     
+<li> 14/10/2022: Paper <a href="https://arxiv.org/abs/2210.12625">"Fast Beam Alignment via Pure Exploration in Multi-armed Bandits"</a> (journal version) accepted by <b>IEEE Transactions on Wireless Communications (IEEE TWC)</b>. Joint work with Wei Yi and Vincent Y.&thinsp;F. Tan.       
      </li>
 
 <li> 10/2022: Go to attend the <a href="https://risingstars.utexas.edu/">Rising Stars Workshop</a> at the University of Texas at Austin.
