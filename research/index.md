@@ -61,8 +61,16 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 # Journal Papers
 <!-- Submitted Manuscripts -->
 <ol reversed>
+
  
-<li> Fast Beam Alignment via Pure Exploration in Multi-armed Bandits (Journal Version)
+     
+<li> <a href="https://arxiv.org/abs/2201.10142">Almost Optimal Variance-Constrained Best Arm Identification</a>
+<br> Yunlong Hou, and Vincent Y.&thinsp;F. Tan, <b>Zixin Zhong*</b>
+<br> <i>IEEE Transactions on Information Theory (IEEE TIT)</i>, Accepted in November 2022
+ </li>
+ 
+ 
+<li> <a href="https://arxiv.org/abs/2210.12625">Fast Beam Alignment via Pure Exploration in Multi-armed Bandits</a> (Journal Version)
 <br> Yi Wei, <b>Zixin Zhong*</b>, and Vincent Y.&thinsp;F. Tan
 <br> <i>IEEE Transactions on Wireless Communications (IEEE TWC)</i>, Accepted in October 2022
  </li>
