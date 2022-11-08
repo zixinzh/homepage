@@ -45,8 +45,8 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- <li> <a href="https://arxiv.org/abs/2201.10142">Almost Optimal Variance-Constrained Best Arm Identification</a>
 <br> Yunlong Hou, Vincent Y.&thinsp;F. Tan, and <b>Zixin Zhong*</b>
 <br> Submitted, January 2022
-<!--  July 2021  -->
  </li>  -->
+<!--  July 2021  -->
  
 <li> <a href="https://arxiv.org/abs/2110.08627">On the Pareto Frontier of Regret Minimization and Best Arm Identification in Stochastic Bandits</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
