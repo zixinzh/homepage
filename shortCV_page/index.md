@@ -21,4 +21,6 @@ during her PhD study and she worked with them as a research fellow between June 
 
 
 Dr.&thinsp;Zhong's research interests are in reinforcement learning, online machine learning and, in particular, the multi-armed bandits. Her work has been presented at top machine learning (ML) conferences including ICML and AISTATS, and also in top ML journals such as the Journal of Machine Learning Research (JMLR).
-She also serves as a reviewer for several conferences and journals including (in alphabetical order) AISTATS, ICLR, ICML, NeurIPS, TIT, TSP, and TMLR.
+She also serves as a reviewer for several conferences and journals including (in alphabetical order) AISTATS, ICLR, ICML, NeurIPS, TIT, TSP, and TMLR. She is titled as a top reviewer for <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS 2022</a>.
+
+
