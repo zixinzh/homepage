@@ -167,6 +167,9 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 
 <!-- <ol reversed>
+<li> Reviewer of <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2023   </li>
+<li> Reviewer of <i>International Conference on Learning Representations (ICLR)</i>, 2023   </li>
+<li> Reviewer of <i>Neural Information Processing Systems (NeurIPS)</i>, 2022  </li>
 <li> Reviewer of <i>International Conference on Machine Learning (ICML)</i>, 2022   </li>
 <li> Reviewer of <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2022   </li>
 <li> Reviewer of <i>International Conference on Learning Representations (ICLR)</i>, 2022   </li>
@@ -181,6 +184,10 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 # Academic Activities
 <ol reversed>
+
+ 
+ <li> <i> <a href="https://risingstars.utexas.edu/">Rising Stars Workshop in EECS</a></i>, The University of Texas at Austin, 27-28 October 2022
+  </li> 
  
  <li> <i> INFORMS 2021 Annual Meeting</i>, Virtual, 24-27 October 2021
   <br> Oral presentation of the work appeared at ICML 2021    </li> 
