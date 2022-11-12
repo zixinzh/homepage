@@ -194,7 +194,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <br/>
 
 # Honors and Awards
-* Top reviewer for Neu
+* Top reviewer for NeurIPS, 2022
 * <a href="https://risingstars.utexas.edu/profiles/zixin-zhong/">Rising Star in EECS</a>, 2022
 * NUS Research Scholarship, 2017/08 - 2021/06
 * China National Scholarship, 2014
