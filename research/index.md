@@ -64,17 +64,17 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
  
      
-<li> <a href="https://arxiv.org/abs/2201.10142">Almost Optimal Variance-Constrained Best Arm Identification</a>
+<li> <a href="https://ieeexplore.ieee.org/document/9950536">Almost Optimal Variance-Constrained Best Arm Identification</a>
 <br> Yunlong Hou, and Vincent Y.&thinsp;F. Tan, <b>Zixin Zhong*</b>
-<br> <i>IEEE Transactions on Information Theory (IEEE TIT)</i>, Accepted in November 2022
+<br> <i>IEEE Transactions on Information Theory (IEEE TIT)</i>,  2022, doi: 10.1109/TIT.2022.3222231
  </li>
+<!--  https://arxiv.org/abs/2201.10142 , Accepted in November 2022-->
  
- 
-<li> <a href="https://arxiv.org/abs/2210.12625">Fast Beam Alignment via Pure Exploration in Multi-armed Bandits</a> (Journal Version)
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/9962799">Fast Beam Alignment via Pure Exploration in Multi-armed Bandits</a> (Journal Version)
 <br> Yi Wei, <b>Zixin Zhong*</b>, and Vincent Y.&thinsp;F. Tan
-<br> <i>IEEE Transactions on Wireless Communications (IEEE TWC)</i>, Accepted in October 2022
+<br> <i>IEEE Transactions on Wireless Communications (IEEE TWC)</i>, 2022, doi: 10.1109/TWC.2022.3217131
  </li>
-
+<!-- https://arxiv.org/abs/2210.12625  , Accepted in October 2022 -->
  
  
 <li> <a href="https://jmlr.org/papers/v22/20-447.html">Thompson Sampling Algorithms for Cascading Bandits</a> 
