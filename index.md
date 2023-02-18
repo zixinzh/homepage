@@ -150,7 +150,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
    </ul>
  </li>
   
-<li> <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-sen Univeristy (SYSU)</a>, 2013/08 - 2017/06
+<li> <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-sen University (SYSU)</a>, 2013/08 - 2017/06
    <ul>
     <li> B.&thinsp;S., <a href="http://math.sysu.edu.cn/">School of Mathematics</a> (Outstanding Graduate)
       <br> Thesis advisor: Prof.&thinsp;<a href="http://math.sysu.edu.cn/teacher/427">Guocan Feng</a>
