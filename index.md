@@ -181,7 +181,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
   * Ph.&thinsp;D. candidate, Department of Mathematics
     * Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     
-* <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-sen Univeristy (SYSU)</a>, 2013/08 - 2017/06
+* <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-sen University (SYSU)</a>, 2013/08 - 2017/06
   * B.&thinsp;S., <a href="http://math.sysu.edu.cn/">School of Mathematics</a> (Outstanding Graduate)
     * Thesis advisor: Prof.&thinsp;<a href="http://math.sysu.edu.cn/teacher/427">Guocan Feng</a>
     
