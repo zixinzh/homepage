@@ -145,7 +145,9 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 <b>Conference Reviewer</b>
 <br>
-2023 &nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
+2023 &nbsp; <i>International Conference on Machine Learning (ICML)</i>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Learning Representations (ICLR)</i>
 <br>
