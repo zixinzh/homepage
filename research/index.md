@@ -48,7 +48,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
  </li>  -->
 <!--  July 2021  -->
  
-<li> <a href="https://arxiv.org/abs/2110.08627">On the Pareto Frontier of Regret Minimization and Best Arm Identification in Stochastic Bandits</a>
+<li> <a href="https://arxiv.org/abs/2110.08627">Achieving the Pareto Frontier of Regret Minimization and Best Arm Identification in Stochastic Bandits</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
 <br> Submitted, October 2021
 <!--  July 2021  -->
