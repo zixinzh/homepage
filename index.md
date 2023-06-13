@@ -152,7 +152,8 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <ul>
 <li> National University of Singapore (NUS), 2017/08 - 2021/10
    <ul>
-    <li> Ph.&thinsp;D., <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>   
+    <li> Ph.&thinsp;D., <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> <a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/#:~:text=Louis%20Chen%20Hsiao%20Yun%20Best%20Dissertation%20Prize&text=thesis%20in%20mathematics%20and%20its,award%20of%20%24500%20Singapore%20Dollars.">
+(Louis Chen Hsiao Yun Best Dissertation Prize)</a>  
 <!--          candidate -->
       <br> Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     </li>
@@ -187,7 +188,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 
 <!-- * National University of Singapore (NUS), 2017/08 - present
-  * Ph.&thinsp;D. candidate, Department of Mathematics
+  * Ph.&thinsp;D. candidate, Department of Mathematics 
     * Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     
 * <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-sen University (SYSU)</a>, 2013/08 - 2017/06
@@ -203,6 +204,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <br/>
 
 # Honors and Awards
+* Louis Chen Hsiao Yun Best Dissertation Prize, 2023
 * <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">Top reviewer for NeurIPS</a>, 2022
 * <a href="https://risingstars.utexas.edu/profiles/zixin-zhong/">Rising Star in EECS</a>, 2022
 * NUS Research Scholarship, 2017/08 - 2021/06
