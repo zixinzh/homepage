@@ -37,7 +37,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
  <br/> 
  
  
- *: Corresponding author
+ *: Corresponding author， ∗: equal contribution.
 
 
 # Preprints
@@ -98,6 +98,16 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 # Conference Papers
 <ol reversed>
+ <li> <a href="https://arxiv.org/abs/2301.13393">Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits</a> 
+<br> Yunlong Hou, and Vincent Y.&thinsp;F. Tan, <b>Zixin Zhong*</b>
+<br> <i>International Conference on Machine Learning (ICML)</i>, Hawaii, US, 23-29 July 2023
+ </li>
+ 
+ <li> <a href="https://icml.cc/Conferences/2023/ScheduleMultitrack?event=24315">Stochastic Gradient Succeeds for Bandits</a> 
+<br> Jincheng Mei*∗, <b>Zixin Zhong*∗</b>, Bo Dai, Alekh Agarwal, Csaba Szepesvári, Dale Schuurmans
+<br> <i>International Conference on Machine Learning (ICML)</i>, Hawaii, US, 23-29 July 2023
+ </li>
+ 
 <li> Fast Beam Alignment via Pure Exploration in Multi-armed Bandits
 <br> Yi Wei, <b>Zixin Zhong</b>, and Vincent Y.&thinsp;F. Tan
 <br> <i>IEEE International Symposium on Information Theory (ISIT)</i>, Aalto, Finland, 26 June-1 July 2022
@@ -146,7 +156,11 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 <b>Conference Reviewer</b>
 <br>
-2023 &nbsp; <i>International Conference on Machine Learning (ICML)</i>
+2023 &nbsp; <i>Neural Information Processing Systems (NeurIPS)</i>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>European Workshop on Reinforcement Learning (EWRL)</i>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Machine Learning (ICML)</i>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
 <br>
