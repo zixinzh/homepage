@@ -76,11 +76,13 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
      
 <li> 12/06/2023: Won the <a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/#:~:text=Louis%20Chen%20Hsiao%20Yun%20Best%20Dissertation%20Prize&text=thesis%20in%20mathematics%20and%20its,award%20of%20%24500%20Singapore%20Dollars">Louis Chen Hsiao Yun Best Dissertation Prize</a> from NUS. 🏆 
      <br> This prize is awarded annually to the student with the best Ph.D. thesis in mathematics and its applications.
-     <br> Sincere thanks to the continuous suppoort from my supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung! This prize is also for you.
+     <br>
+     <br> Sincere thanks to the continuous support from my supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung! <b>This prize is also for you</b>.
 </li>
      
 <li> 25/04/2023: Two papers accepted by <b>ICML 2023</b>. 
      <br> The first paper is titled <a href="https://arxiv.org/abs/2301.13393">"Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits"</a>. Here, the agent's choices at every time instant should contain items whose sum of risks does not exceed a certain risk budget. This is joint work with Yunlong Hou and Vincent Y.&thinsp;F. Tan. 
+     <br>
 <br> The second paper is titled <a href="https://icml.cc/Conferences/2023/ScheduleMultitrack?event=24315">"Stochastic Gradient Succeeds for Bandits"</a>. Here, we analyzed a gradient-based algorithm in bandits. This is joint work with Jincheng Mei, Bo Dai, Alekh Agarwal, Csaba Szepesvári and Dale Schuurmans.
  </li>
 
