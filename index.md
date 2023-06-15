@@ -15,7 +15,7 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 <!--  -->
 <!--  -->
 <!--  -->
-I am a postdoctoral fellow at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a> supervised by Prof.&thinsp;<a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>. 
+I am a postdoctoral fellow at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a> supervised by Prof.&thinsp;<a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>.  
 <br>
 I was privileged to be supervised by 
 Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
