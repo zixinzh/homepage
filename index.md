@@ -8,7 +8,7 @@ layout: about
 <!-- Hi! I am currently a research fellow at the 
 <a href="https://www.eng.nus.edu.sg/ece/">Department of Electrical and Computer Engineering</a> 
 of
-<a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>, 
+<a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>,  
 working with 
 Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
 Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wang Chi Cheung</a>. -->
