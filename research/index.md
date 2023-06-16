@@ -104,7 +104,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
  </li>
  
  <li> <a href="https://icml.cc/Conferences/2023/ScheduleMultitrack?event=24315">Stochastic Gradient Succeeds for Bandits</a> 
-<br> Jincheng Mei*∗, <b>Zixin Zhong*∗</b>, Bo Dai, Alekh Agarwal, Csaba Szepesvári, Dale Schuurmans
+<br> Jincheng Mei*∗, <b>Zixin Zhong*∗</b>, Bo Dai, Alekh Agarwal, Csaba Szepesvári, and Dale Schuurmans
 <br> <i>International Conference on Machine Learning (ICML)</i>, Hawaii, US, 23-29 July 2023
  </li>
  
