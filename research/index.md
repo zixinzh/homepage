@@ -14,7 +14,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- Ph.&thinsp;D.&thinsp;Thesis --> 
 <ol reversed>
 <li> <a href="https://scholarbank.nus.edu.sg/handle/10635/204935">Performance Guarantees for Online Learning: Cascading Bandits and Adversarial Corruptions</a>
- <br> (<a href="<a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/">Louis Chen Hsiao Yun Best Dissertation Prize</a>) 
+ <br> (<a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/">Louis Chen Hsiao Yun Best Dissertation Prize</a>) 
 <br> <b>Zixin Zhong</b>
 <!-- <br> Supervisors: Prof.&thinsp;Vincent Y.&thinsp;F. Tan, Prof.&thinsp;Wang Chi Cheung -->
 <br> Department of Mathematics, National University of Singapore, October 2021 
