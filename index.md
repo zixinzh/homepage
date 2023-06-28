@@ -71,7 +71,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
      
 <!-- <li> 🐯 🐯 🐯 <strong>Happy Chinese New Year!</strong> 🐯 🐯 🐯 </li> -->
      
-<li> &#128640; &#128640; &#128640; <strong>Open to job market! Please kindly contact me if there is any opening position! </strong> &#128640; &#128640; &#128640; </li>
+<li> &#128640; &#128640; &#128640; <strong>Open to job market! Please kindly contact me if there is any opening position! </strong> &#128640; &#128640; &#128640; </li> 
  
      
 <li> 12/06/2023: Won the <a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/">Louis Chen Hsiao Yun Best Dissertation Prize</a> from NUS. 🏆 
