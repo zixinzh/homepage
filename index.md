@@ -215,8 +215,9 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 * China National Scholarship, 2014
 * SYSU First Class Scholarship, 2014 and 2015
 
+<br/>
 
-<a href="https://clustrmaps.com/site/1bwhe" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ" width="50%"/></a>
+<a href="https://clustrmaps.com/site/1bwhe" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ&co=ffffff&ct=808080" width="40%"/></a>
 
 <!--
 | <! -- -- > |  <! -- -- > | 
