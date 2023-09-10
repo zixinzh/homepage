@@ -40,7 +40,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
  *: Corresponding author， ∗: equal contribution.
 
 
-# Preprints
+<!--  # Preprints
 <!-- Submitted Manuscripts -->
 <ol reversed>
 <!-- <li> <a href="https://arxiv.org/abs/2201.10142">Almost Optimal Variance-Constrained Best Arm Identification</a>
