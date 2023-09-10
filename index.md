@@ -216,7 +216,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 * SYSU First Class Scholarship, 2014 and 2015
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ"></script>
+<a href="https://clustrmaps.com/site/1bwhe" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ" width=50%/></a>
 
 <!--
 | <! -- -- > |  <! -- -- > | 
