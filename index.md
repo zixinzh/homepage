@@ -217,9 +217,9 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 <br/>
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353" width="40%"></script> -->
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=19282f&w=1200&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ&co=ffffff&ct=808080&cmo=a1b57d&cmn=b33030" width="30%"></script>
 
-<a href="https://clustrmaps.com/site/1bwhe" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ&co=ffffff&ct=808080" width="20%"/></a>
+<!-- <a href="https://clustrmaps.com/site/1bwhe" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ&co=ffffff&ct=808080" width="20%"/></a> -->
 
 
 <!--
