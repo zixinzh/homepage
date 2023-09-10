@@ -219,7 +219,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=19282f&w=1200&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ&co=ffffff&ct=ffffff&cmo=a1b57d&cmn=b33030" width="20%"></script> -->
 
-<a href="https://clustrmaps.com/site/1bwhe" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=19282f&w=1200&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ&co=ffffff&ct=ffffff" width="40%"/></a>
+<a href="https://clustrmaps.com/site/1bwhe" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=19282f&w=1200&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ&co=ffffff&ct=ffffff" width="50%"/></a>
 
 
 <!--
