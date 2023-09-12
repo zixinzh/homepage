@@ -59,7 +59,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- Submitted Manuscripts -->
 <ol reversed>
 
-<li> <a href="https://arxiv.org/abs/2110.08627">Achieving the Pareto Frontier of Regret Minimization and Best Arm Identification in Stochastic Bandits</a> (featured certification)
+<li> <a href="https://arxiv.org/abs/2110.08627">Achieving the Pareto Frontier of Regret Minimization and Best Arm Identification in Stochastic Bandits</a> <a href="https://github.com/zixinzh/2023-TMLR.git">[code]</a> (featured certification)
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
 <br> <i>Transactions on Machine Learning Research (TMLR)</i>, Accepted in September 2023
 <!--  July 2021  -->
