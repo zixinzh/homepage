@@ -1,3 +1,37 @@
+<li> 25/04/2023: Two papers accepted by <b>ICML 2023</b>. 
+     <br> The first paper is titled <a href="https://arxiv.org/abs/2301.13393">"Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits"</a>. Here, the agent's choices at every time instant should contain items whose sum of risks does not exceed a certain risk budget. This is joint work with Yunlong Hou and Vincent Y.&thinsp;F. Tan. 
+<br> The second paper is titled <a href="https://icml.cc/Conferences/2023/ScheduleMultitrack?event=24315">"Stochastic Gradient Succeeds for Bandits"</a>. Here, we analyzed a gradient-based algorithm in bandits. This is joint work with Jincheng Mei, Bo Dai, Alekh Agarwal, Csaba Szepesvári and Dale Schuurmans.
+ </li>
+
+<li> 11/2022: Recognized as a <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">top reviewer</a> for <b>NeurIPS 2022</b>.  </li>
+     
+<li> 07/11/2022: Paper <a href="https://arxiv.org/abs/2201.10142">"Almost Optimal Variance-Constrained Best Arm Identification"</a> accepted by <b>IEEE Transactions on Information Theory (IEEE TIT)</b>. Joint work with Yunlong Hou and Vincent Y.&thinsp;F. Tan.       
+     </li>
+     
+<li> 14/10/2022: Paper <a href="https://arxiv.org/abs/2210.12625">"Fast Beam Alignment via Pure Exploration in Multi-armed Bandits"</a> (journal version) accepted by <b>IEEE Transactions on Wireless Communications (IEEE TWC)</b>. Joint work with Wei Yi and Vincent Y.&thinsp;F. Tan.       
+     </li>
+
+<li> 10/2022: Go to attend the <a href="https://risingstars.utexas.edu/">Rising Stars Workshop</a> at the University of Texas at Austin.
+     </li>
+     
+<li> 25/07/2022: Join Csaba's team as a postdoctoral fellow.
+     <br> Thanks so much for the opportunity!
+<!--      I will be the single presenter. -->
+     </li>
+
+<li> 08/04/2022: Tutorial proposal on "Pure Exploration in Multi-Armed Bandits" just accepted by <b>IJCAI</b> 2022! 
+     <br> This tutorial will be delivered by Vincent. Sincere thanks for Vincent's help!
+<!--      I will be the single presenter. -->
+     </li>
+     
+ <li> 31/10/2021: My Ph.&thinsp;D.&thinsp;degree conferred.  🎓
+ <br> Deep thanks to my incredible supervisors Prof. Vincent Y.&thinsp;F. Tan and Prof. Wang Chi Cheung!  
+     </li>  
+
+
+
+
+
 <!--  <li> 26/10/2021: Presented our work (proceeding of ICML 2021) in INFORMS 2021 Annual Meeting. 
   <br> Time: 2:45 PM - 4:15 PM (PDT)  </li>  
  
