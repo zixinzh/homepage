@@ -218,13 +218,6 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 <br/>
 
-This page has been accessed at least
-<a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
-src="http://stuff.mit.edu/cgi/counter/zixinzh1" alt="several"></a>
-times since 10/24/2023, and on average <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
-src="http://stuff.mit.edu/cgi/perday/zixinzh1" alt="several"></a> per day.
-
-
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=19282f&w=1200&t=n&d=BCTbQS_QXFEuaTpMmguDsnOqSUGcitD2Hh62GJ2KqnQ&co=ffffff&ct=ffffff&cmo=a1b57d&cmn=b33030" width="20%"></script> -->
 
