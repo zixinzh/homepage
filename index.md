@@ -26,13 +26,15 @@ I heartfully admire their support and encouragement.
 <br>
 Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_2023_09_09_eng.pdf"><b>CV</b></a> (updated by 09 Sep 2023) here.
 
-<!--  
+ 
 <div style="background-color:rgba(252, 243, 207, 0.0470588); text-align:left; vertical-align: middle; padding:40px 0; margin-top:10px">
+# Position Openings
+
 I will join the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> as a Tenure-Track Assistant Professor in the summer of 2024.
 <br>
-I am currently recruiting PhD students starting in Fall 2024 to join my group. We may work on <b>reinforcement learning</b>, <b>online machine learning</b>, <b>multi-armed bandits</b> or we may discuss research topics that attract you. If you are interested, please email me your research interests, CV, and transcripts.
+I am looking for PhD students starting in Fall 2024. We may work on <b>reinforcement learning</b>, <b>online machine learning</b>, <b>multi-armed bandits</b> or we may discuss research topics that attract you. If you are interested, please email me your CV and transcripts. You may want to picture your potential PhD life with more <a href="https://fytgs.hkust-gz.edu.cn/">INFO</a>.
 </div>
--->
+
 
 <!--**Hometown**: Zhanjiang City, Guangdong Province, China -->
 
