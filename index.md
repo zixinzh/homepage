@@ -71,7 +71,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
      
 <!-- <li> 🐯 🐯 🐯 <strong>Happy Chinese New Year!</strong> 🐯 🐯 🐯 </li> -->
      
-<li> &#128640; &#128640; &#128640; <strong>Open to job market! Please kindly contact me if there is any opening position! </strong> &#128640; &#128640; &#128640; </li> 
+<!-- <li> &#128640; &#128640; &#128640; <strong>Open to job market! Please kindly contact me if there is any opening position! </strong> &#128640; &#128640; &#128640; </li> -->
 
 <li> 09/09/2023: Paper <a href="https://arxiv.org/abs/2110.08627">"Achieving the Pareto Frontier of Regret Minimization and Best Arm Identification in Stochastic Bandits"</a> accepted by <b>Transactions on Machine Learning Research (TMLR)</b>. In this paper, we study the Pareto frontier of two archetypal objectives in multi-armed bandits, namely, regret minimization (RM) and best arm identification (BAI) with a fixed horizon. This is joint work with Wang Chi Cheung and Vincent Y.&thinsp;F. Tan. 
      <br> We are delighted that this is a TMLR paper chosen to be one with "featured certification".
