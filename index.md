@@ -6,7 +6,7 @@ layout: about
 <!-- Hi! I am currently a Ph.&thinsp;D.&thinsp;candidate at the
 <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>  --> 
 <!-- Hi! I am currently a research fellow at the 
-<a href="https://www.eng.nus.edu.sg/ece/">Department of Electrical and Computer Engineering</a> 
+<a href="https://www.eng.nus.edu.sg/ece/">Department of Electrical and Computer Engineering</a>  
 of
 <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>,  
 working with 
