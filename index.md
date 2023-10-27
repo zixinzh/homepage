@@ -26,9 +26,8 @@ I heartfully admire their support and encouragement.
 <br>
 Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_2023_09_09_eng.pdf"><b>CV</b></a> (updated by 09 Sep 2023) here.
 
- 
+ # Position Openings
 <div style="background-color:rgba(252, 243, 207, 0.0470588); text-align:left; vertical-align: middle; padding:40px 0; margin-top:10px">
-# Position Openings
 
 I will join the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> as a Tenure-Track Assistant Professor in the summer of 2024.
 <br>
