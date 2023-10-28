@@ -28,7 +28,7 @@ Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my
 
 # Position Openings
 
-<table><tr><td bgcolor= #FCF3CF>
+<table><tr><td background-color= #FCF3CF>
     I will join the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> as a Tenure-Track Assistant Professor in the summer of 2024.
 </td></tr></table>
 
