@@ -56,14 +56,14 @@ She also serves as a reviewer for several conferences and journals including (in
 <ul>
 <li> National University of Singapore (NUS), 2017/08 - 2021/10
    <ul>
-    <li> Ph.&thinsp;D., <a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/">
+    <li> Ph.&thinsp;D., <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> <a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/">
 (Louis Chen Hsiao Yun Best Dissertation Prize)</a>  
 <!--          candidate -->
       <br> Supervisors: Prof. Vincent Y.&thinsp;F. Tan, Prof. Wang Chi Cheung 
     </li>
    </ul>
  </li>
-<!--      https://www.math.nus.edu.sg/">Department of Mathematics</a> <a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/#:~:text=Louis%20Chen%20Hsiao%20Yun%20Best%20Dissertation%20Prize&text=thesis%20in%20mathematics%20and%20its,award%20of%20%24500%20Singapore%20Dollars. -->
+<!--      <a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/#:~:text=Louis%20Chen%20Hsiao%20Yun%20Best%20Dissertation%20Prize&text=thesis%20in%20mathematics%20and%20its,award%20of%20%24500%20Singapore%20Dollars. -->
      
   
 <li> <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-sen University (SYSU)</a>, 2013/08 - 2017/06
