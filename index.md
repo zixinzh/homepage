@@ -24,7 +24,7 @@ during my PhD study at the
 <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>.
 I heartfully admire their support and encouragement.
 <br>
-Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_2023_09_09_eng.pdf"><b>CV</b></a> (updated by 09 Sep 2023) here.
+Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_2023_09_09_eng_github.pdf"><b>CV</b></a> (updated by 09 Sep 2023) here.
 
 <!--# Position Openings-->
 
