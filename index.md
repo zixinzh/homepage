@@ -36,7 +36,7 @@ Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my
         <td bgcolor= "#F9E79F" border-width=10px border-color="#F9E79F">
     I will join the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> as a Tenure-Track Assistant Professor in the summer of 2024.
 <br><br>
-    I am looking for PhD students starting in Fall 2024. We may work on <b>reinforcement learning</b>, <b>online machine learning</b>, <b>multi-armed bandits</b> or exciting topics that attract you. If you are interested, please email me your CV and transcripts. Here is some <a href="https://fytgs.hkust-gz.edu.cn/">INFO</a> for you to picture your potential PhD life.
+    I am looking for PhD students/research assistants starting in Fall 2024 or later. We may work on <b>reinforcement learning</b>, <b>online machine learning</b>, <b>multi-armed bandits</b> or exciting topics that attract you. If you are interested, please email me your CV and transcripts. Here is a <a href="cv/post-phd-ra-v7.png"><b>post in Chinese</b></a> and some <a href="https://fytgs.hkust-gz.edu.cn/">INFO</a> for you to picture your potential PhD life.
 </td>
     <td bgcolor= "#F9E79F" border-width=10px border-color="#F9E79F">  
 </td>
