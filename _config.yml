@@ -13,7 +13,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Zixin Zhong (钟梓昕) # KyeongSeob Sim
+  name: Zixin Zhong 钟梓昕 # KyeongSeob Sim
   desc: “C'est le temps que tu as perdu pour ta rose qui fait ta rose si importante.” # Nice to meet you here.
   email: zixinDOTzhongATu.nus.edu # ksub0912@gmail.com 
   selfie: assets/img/zixin.jpg # profile.jpg
