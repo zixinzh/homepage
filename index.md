@@ -3,6 +3,7 @@ layout: about
 ---
 
 # About Me 
+
 <!-- Hi! I am currently a Ph.&thinsp;D.&thinsp;candidate at the
 <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>  --> 
 <!-- Hi! I am currently a research fellow at the 
@@ -15,7 +16,9 @@ Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wa
 <!--  -->
 <!--  -->
 <!--  -->
-I am a postdoctoral fellow at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a> supervised by Prof.&thinsp;<a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>.  
+
+
+<!-- I am a postdoctoral fellow at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a> supervised by Prof.&thinsp;<a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>.  
 <br>
 I was privileged to be supervised by 
 Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
@@ -25,6 +28,21 @@ during my PhD study at the
 I heartfully admire their support and encouragement.
 <br>
 Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_2023_09_09_eng_github.pdf"><b>CV</b></a> (updated by 09 Sep 2023) here.
+-->
+
+I am an assistant professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>.
+
+<br>
+
+I was privileged to be supervised by 
+Prof.&thinsp;<a href="https://www.ece.nus.edu.sg/stfpage/vtan/">Vincent Y.&thinsp;F. Tan</a> and 
+Prof.&thinsp;<a href="https://www.eng.nus.edu.sg/isem/staff/cheung-wang-chi/">Wang Chi Cheung</a>
+during my PhD study at the
+<a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a>.
+After that, I worked as a postdoctoral fellow at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a> and was supervised by Prof.&thinsp;<a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>. 
+I heartfully admire their support and encouragement.
+<br>
+Feel free to reach me at <b>"zixinzhong [at] hkust-gz.edu.cn"</b> and download my <a href="cv/cv_zixin_zhong_2023_09_09_eng_github.pdf"><b>CV</b></a> (updated by 09 Sep 2023) here.
 
 <!--# Position Openings-->
 
@@ -34,8 +52,8 @@ Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my
     <td bgcolor= "#F9E79F" border-width=10px border-color="#F9E79F">  
 </td>
         <td bgcolor= "#F9E79F" border-width=10px border-color="#F9E79F">
-    I will join the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> as a Tenure-Track Assistant Professor in the summer of 2024.
-<br><br>
+<!--    I will join the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> as a Tenure-Track Assistant Professor in the summer of 2024.
+<br><br>-->
     I am looking for PhD students/research assistants starting in Fall 2024 or later. We may work on <b>reinforcement learning</b>, <b>online machine learning</b>, <b>multi-armed bandits</b> or exciting topics that attract you. If you are interested, please email me your CV and transcripts. Here is a <a href="cv/post-phd-ra-v7.png"><b>post in Chinese</b></a> and some <a href="https://fytgs.hkust-gz.edu.cn/">INFO</a> for you to picture your potential PhD life.
 </td>
     <td bgcolor= "#F9E79F" border-width=10px border-color="#F9E79F">  
@@ -103,6 +121,13 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- <li> 🐯 🐯 🐯 <strong>Happy Chinese New Year!</strong> 🐯 🐯 🐯 </li> -->
      
 <!-- <li> &#128640; &#128640; &#128640; <strong>Open to job market! Please kindly contact me if there is any opening position! </strong> &#128640; &#128640; &#128640; </li> -->
+
+<li> 11/07/2024: Delighted to join the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> as a Tenure-Track Assistant Professor!
+     </li>
+
+<li> 11/07/2024: Paper <a href="https://www.jmlr.org/papers/v25/22-1088.html">"Optimal clustering with bandit feedback"</a> accepted by <b>Jounral of Machine Learning Research (JMLR)</b>. In this paper, we study the problem of clustering arms with bandit feedback. This is joint work with Junwen Yang and Vincent Y.&thinsp;F. Tan. 
+     <br> I sincerely thank my collaborators' great efforts!
+     </li>
 
 <li> 07/05/2024: Our <a href="https://arxiv.org/abs/2110.08627">work</a> accepted by TMLR is presented as a poster in <b>ICLR 2024</b>.
      </li>
