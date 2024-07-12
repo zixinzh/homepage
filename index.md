@@ -31,7 +31,6 @@ Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my
 -->
 
 I am an assistant professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>.
-
 <br>
 
 I was privileged to be supervised by 
