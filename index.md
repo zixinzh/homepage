@@ -124,7 +124,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <li> 11/07/2024: Delighted to join the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> as a Tenure-Track Assistant Professor!
      </li>
 
-<li> 11/07/2024: Paper <a href="https://www.jmlr.org/papers/v25/22-1088.html">"Optimal clustering with bandit feedback"</a> accepted by <b>Jounral of Machine Learning Research (JMLR)</b>. In this paper, we study the problem of clustering arms with bandit feedback. This is joint work with Junwen Yang and Vincent Y.&thinsp;F. Tan. 
+<li> 11/07/2024: Paper <a href="https://www.jmlr.org/papers/v25/22-1088.html">"Optimal clustering with bandit feedback"</a> accepted by <b>Journal of Machine Learning Research (JMLR)</b>. In this paper, we study the problem of clustering arms with bandit feedback. This is joint work with Junwen Yang and Vincent Y.&thinsp;F. Tan. 
      <br> I sincerely thank my collaborators' great efforts!
      </li>
 
