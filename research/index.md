@@ -59,6 +59,13 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <!-- Submitted Manuscripts -->
 <ol reversed>
 
+
+<li> <a href="https://www.jmlr.org/papers/v25/22-1088.html">Optimal Clustering with Bandit Feedback</a> 
+<br> Junwen Yang, <b>Zixin Zhong*</b>, and Vincent Y.&thinsp;F. Tan
+<br> <i>Journal of Machine Learning Research (JMLR)</i> , Vol. 25, No. 186, Pages 1 - 54, July 2024
+ </li> 
+
+
 <li> <a href="https://arxiv.org/abs/2110.08627">Achieving the Pareto Frontier of Regret Minimization and Best Arm Identification in Stochastic Bandits</a> (featured certification) <a href="https://github.com/zixinzh/2023-TMLR.git">[code]</a>
 <br> <b>Zixin Zhong</b>, Wang Chi Cheung, and Vincent Y.&thinsp;F. Tan
 <br> <i>Transactions on Machine Learning Research (TMLR)</i>, Accepted in September 2023
