@@ -41,7 +41,7 @@ during my PhD study at the
 After that, I worked as a postdoctoral fellow at the <a href="https://www.ualberta.ca/index.html">University of Alberta</a> and was supervised by Prof.&thinsp;<a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>. 
 I heartfully admire their support and encouragement.
 <br>
-Feel free to reach me at <b>"zixinzhong [at] hkust-gz.edu.cn"</b> and download my <a href="cv/cv_zixin_zhong_2023_09_09_eng_github.pdf"><b>CV</b></a> (updated by 09 Sep 2023) here.
+Feel free to reach me at <b>"zixinzhong [at] hkust-gz.edu.cn"</b> and download my <a href="cv/cv_zixin_zhong_2024_08_04_eng_github.pdf"><b>CV</b></a> (updated by 04 Aug 2024) here.
 
 <!--# Position Openings-->
 
