@@ -105,6 +105,11 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 # Conference Papers
 <ol reversed>
+ <li> Almost Minimax Optimal Best Arm Identification in Piecewise Stationary Linear Bandits
+<br> Yunlong Hou, Vincent Y.&thinsp;F. Tan, and <b>Zixin Zhong*</b>
+<br> <i>Annual Conference on Neural Information Processing Systems (NeurIPS)</i>, Vancouver, Canada, 9-15 December 2024
+ </li>
+ 
  <li> <a href="https://arxiv.org/abs/2301.13393">Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits</a> 
 <br> Yunlong Hou, Vincent Y.&thinsp;F. Tan, and <b>Zixin Zhong*</b>
 <br> <i>International Conference on Machine Learning (ICML)</i>, Hawaii, US, 23-29 July 2023
