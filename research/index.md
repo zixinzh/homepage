@@ -167,7 +167,18 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 </table> -->
 
 <b>Conference Reviewer</b>
+ <br>
+2023- &nbsp; <i>European Workshop on Reinforcement Learning (EWRL)</i>
 <br>
+2022- &nbsp; <i>International Conference on Machine Learning (ICML)</i>
+<br>
+2022- &nbsp; <i>International Conference on Learning Representations (ICLR)</i>
+<br>
+2021- &nbsp; <i>Neural Information Processing Systems (NeurIPS)</i>
+<br>
+2021- &nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
+
+<!-- <br>
 2023 &nbsp; <i>Neural Information Processing Systems (NeurIPS)</i>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>European Workshop on Reinforcement Learning (EWRL)</i>
@@ -188,15 +199,15 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 <br>
 2021 &nbsp; <i>Neural Information Processing Systems (NeurIPS)</i>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>International Conference on Artificial Intelligence and Statistics (AISTATS)</i> -->
 
 <b>Journal Reviewer</b>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>IEEE Transactions on Information Theory (TIT)</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>IEEE Transactions on Information Theory (TIT)</i>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>IEEE Transactions on Signal Processing (TSP)</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>IEEE Transactions on Signal Processing (TSP)</i>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Transactions on Machine Learning Research (TMLR)</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Transactions on Machine Learning Research (TMLR)</i>
 
 
 <!-- <ol reversed>
