@@ -23,7 +23,7 @@ during her PhD study and she worked with them as a research fellow between June 
 
 # Biographical Sketch
 
-Zixin Zhong was born in China in 1995. She is a tenure-track assistant professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Thrust of Data Science and Analytics (DSA)</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>.
+Zixin Zhong was born in China in 1995. She is a tenure-track assistant professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Thrust of Data Science and Analytics (DSA)</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>. She is also an affiliate assistant professor of the Hong Kong University of Science and Technology.
 
 Dr.&thinsp;Zhong received her PhD degree from the <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> of the <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a> in October 2021 and won the <a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/">
 Louis Chen Hsiao Yun Best Dissertation Prize</a>, which is awarded annually to the NUS student with the best Ph.D. thesis in mathematics and its applications.
@@ -46,6 +46,13 @@ She also serves as a reviewer for several conferences and journals including (in
 <li> Hong Kong University of Science and Technology (Guangzhou), 2024/07 - Present
    <ul>
     <li> Tenure-track assistant professor, <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Thrust of Data Science and Analytics (DSA)</a>, <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">Information Hub (INFH)</a>
+    </li>
+   </ul>
+ </li>
+
+ <li> Hong Kong University of Science and Technology, 2024/09 - Present
+   <ul>
+    <li> Affiliate assistant professor
     </li>
    </ul>
  </li>
