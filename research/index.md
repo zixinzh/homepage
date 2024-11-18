@@ -61,7 +61,7 @@ Reinforcement learning, online machine learning (e.g., multi-armed bandit proble
 
 
 <li> <a href="https://www.jmlr.org/papers/v25/22-1088.html">Optimal Clustering with Bandit Feedback</a> 
-<br> Junwen Yang, <b>Zixin Zhong*</b>, and Vincent Y.&thinsp;F. Tan
+<br> Junwen Yang, <b>Zixin Zhong</b>, and Vincent Y.&thinsp;F. Tan
 <br> <i>Journal of Machine Learning Research (JMLR)</i> , Vol. 25, No. 186, Pages 1 - 54, July 2024
  </li> 
 
