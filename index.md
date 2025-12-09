@@ -111,7 +111,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <!-- Reinforcement learning, online machine learning (e.g., multi-armed bandit problem)--->
 
-My research interests in reinforcement learning, online learning (e.g., multi-armed bandit problem) include, but are not limited to:
+My research interests include model and methods of reinforcement learning, online learning (e.g., multi-armed bandit problem).
 
 <b>Foundations & Theory</b>
 <ul>
@@ -123,7 +123,7 @@ My research interests in reinforcement learning, online learning (e.g., multi-ar
 </ul>
 
 
-<b>Applications & Domains (for example)</b>
+<b>Applications & Domains (include, but are not limited to)</b>
 
 <ul>
 <li> Efficient, scalable multi-agent and cooperative systems</li> 
