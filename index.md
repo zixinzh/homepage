@@ -53,6 +53,9 @@ Feel free to reach me at <b>"zixinzhong [at] hkust-gz.edu.cn"</b> and download m
         <td bgcolor= "#F9E79F" border-width=10px border-color="#F9E79F">
 <!--    I will join the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics (DSA) Thrust</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a> as a Tenure-Track Assistant Professor in the summer of 2024.
 <br><br>-->
+
+# Position Openings
+            
     I am looking for PhD students/MPhil students/research assistants/postdocs starting in Fall 2024 or later. We may work on <b>reinforcement learning</b>, <b>online machine learning</b>, <b>multi-armed bandits</b> or exciting topics that attract you. If you are interested, please email me your CV and transcripts. Here is a <a href="cv/post-phd-mphil-ra-postdoc-v9.png"><b>post in Chinese</b></a> and some <a href="https://fytgs.hkust-gz.edu.cn/">INFO</a> for you to picture your potential PhD life.
 </td>
     <td bgcolor= "#F9E79F" border-width=10px border-color="#F9E79F">  
@@ -111,7 +114,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <!-- Reinforcement learning, online machine learning (e.g., multi-armed bandit problem)--->
 
-My research interests include model and methods of reinforcement learning, online learning (e.g., multi-armed bandit problem).
+My research interests include models and methods of reinforcement learning, online learning (e.g., multi-armed bandit problem).
 
 <b>Foundations & Theory</b>
 <ul>
