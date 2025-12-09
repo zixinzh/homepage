@@ -30,7 +30,7 @@ I heartfully admire their support and encouragement.
 Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_2023_09_09_eng_github.pdf"><b>CV</b></a> (updated by 09 Sep 2023) here.
 -->
 
-I am an assistant professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics Thrust (DSA)</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>. I am also an  affiliate assistant professor of the Hong Kong University of Science and Technology.
+I am an assistant professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics Thrust (DSA)</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>. I am also an  affiliate assistant professor of the <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>.
 <br>
 
 I was privileged to be supervised by 
@@ -108,7 +108,34 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Research Interests
-Reinforcement learning, online machine learning (e.g., multi-armed bandit problem)
+
+<!-- Reinforcement learning, online machine learning (e.g., multi-armed bandit problem)--->
+
+My research interests in reinforcement learning, online learning (e.g., multi-armed bandit problem) include, but are not limited to:
+
+<b>Foundations & Theory</b>
+<ul>
+<li> Practical model formulation and efficient algorithm design</li> 
+
+<li> Theoretical analysis of algorithm performance and impossibility results (regret and sample complexity)</li> 
+
+<!--<li> Sample efficiency, regret bounds, and computational complexity analysis.</li>  --->
+</ul>
+
+
+<b>Applications & Domains (for example)</b>
+
+<ul>
+<li> Efficient, scalable multi-agent and cooperative systems</li> 
+
+<li> Large Language Models (e.g., reasoning, alignment, and tool use)</li> 
+
+<li> Robotics and autonomous control systems</li> 
+
+<li> Predictive control and prediction for sustainability and energy efficiency</li> 
+</ul>
+
+<!--You may check here for more possible applications of RL:  --->
 
 <br/>
 
