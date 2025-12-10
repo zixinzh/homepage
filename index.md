@@ -118,7 +118,7 @@ My research interests include models and methods of reinforcement learning, onli
 <ul>
 <li> Practical model formulation and efficient algorithm design</li> 
 
-<li> Theoretical analysis of algorithm performance and impossibility results (regret and sample complexity)</li> 
+<li> Theoretical analysis of algorithm performance and impossibility results (e.g., regret and sample complexity)</li> 
 
 <!--<li> Sample efficiency, regret bounds, and computational complexity analysis.</li>  --->
 </ul>
