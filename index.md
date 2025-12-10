@@ -114,7 +114,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 My research interests include models and methods of reinforcement learning, online learning (e.g., multi-armed bandit problem).
 
-<b>Foundations & Theory</b>
+<b>Foundations & Theory</b> 📐
 <ul>
 <li> Practical model formulation and efficient algorithm design</li> 
 
@@ -124,7 +124,7 @@ My research interests include models and methods of reinforcement learning, onli
 </ul>
 
 
-<b>Applications & Domains (include, but are not limited to)</b>
+<b>Applications & Domains (include, but are not limited to)</b> 🔎
 
 <ul>
 <li> Efficient, scalable multi-agent and cooperative systems</li> 
