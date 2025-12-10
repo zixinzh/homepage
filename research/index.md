@@ -5,7 +5,34 @@ layout: base
 <br/>
  
 # Research Interests
-Reinforcement learning, online machine learning (e.g., multi-armed bandit problem)
+<!-- Reinforcement learning, online machine learning (e.g., multi-armed bandit problem)--->
+
+My research interests include models and methods of reinforcement learning, online learning (e.g., multi-armed bandit problem).
+
+<b>Foundations & Theory</b> 📐
+<ul>
+<li> Practical model formulation and efficient algorithm design</li> 
+
+<li> Theoretical analysis of algorithm performance and impossibility results (e.g., regret and sample complexity)</li> 
+
+<!--<li> Sample efficiency, regret bounds, and computational complexity analysis.</li>  --->
+</ul>
+
+
+<b>Applications & Domains (include, but are not limited to)</b> 🪄
+
+<ul>
+<li> Efficient, scalable multi-agent and cooperative systems</li> 
+
+<li> Large Language Models (e.g., reasoning, alignment, and tool use)</li> 
+
+<li> Robotics and autonomous control systems</li> 
+
+<li> Predictive control and prediction for sustainability and energy efficiency</li> 
+</ul>
+
+<!--You may check here for more possible applications of RL:  --->
+
 
 <br/>
 
