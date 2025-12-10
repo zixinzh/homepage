@@ -124,7 +124,7 @@ My research interests include models and methods of reinforcement learning, onli
 </ul>
 
 
-<b>Applications & Domains (include, but are not limited to)</b> 🔎
+<b>Applications & Domains (include, but are not limited to)</b> 🪄
 
 <ul>
 <li> Efficient, scalable multi-agent and cooperative systems</li> 
