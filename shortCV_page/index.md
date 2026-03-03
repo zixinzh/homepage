@@ -186,5 +186,5 @@ She also serves as a reviewer for several conferences and journals including (in
 * **Language**   English, Mandarin, Cantonese  -->
 **Progaramming**&nbsp;  Python, Matlab, LaTeX, R, C/C++
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;**Language**&nbsp;   English, Mandarin, Cantonese 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;**Language**&nbsp;   English, Mandarin, Cantonese  
 
