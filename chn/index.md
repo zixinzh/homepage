@@ -2,7 +2,7 @@
 layout: base
 ---
 
-<!--# About Me-->   
+# 个人简介
 
 钟梓昕，国家级高层次青年人才、广东省优秀青年，现任<a href="https://www.hkust-gz.edu.cn/">香港科技大学（广州）</a><a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">数据科学与分析学域</a>助理教授、博士生导师。 团队长期招收博士后研究员、博士研究生、硕士研究生、研究助理（<a href="cv/post-phd-mphil-ra-postdoc-v9.png">详情</a>）。
 <br>
