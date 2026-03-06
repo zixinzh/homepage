@@ -23,7 +23,7 @@ during her PhD study and she worked with them as a research fellow between June 
 # Biographical Sketch
 
 Zixin Zhong was born in China in 1995. She is a tenure-track assistant professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Thrust of Data Science and Analytics (DSA)</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>. She is also an affiliate assistant professor of the Hong Kong University of Science and Technology.
-Zixin is recognized as National and Guangdong Provincial Young Talent.
+Zixin is supported by both the National and the Guangdong Provincial Young Talent programs.
 
 Dr.&thinsp;Zhong received her PhD degree from the <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> of the <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a> in October 2021 and won the <a href="https://www.math.nus.edu.sg/about/university-awards-accolades-for-graduate/">
 Louis Chen Hsiao Yun Best Dissertation Prize</a>, which is awarded annually to the NUS student with the best Ph.D. thesis in mathematics and its applications.
