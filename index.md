@@ -30,7 +30,7 @@ I heartfully admire their support and encouragement.
 Feel free to reach me at <b>"zixin dot zhong [at] u.nus.edu"</b> and download my <a href="cv/cv_zixin_zhong_2023_09_09_eng_github.pdf"><b>CV</b></a> (updated by 09 Sep 2023) here.
 -->
 
-I am an assistant professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics Thrust (DSA)</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>. I am also an  affiliate assistant professor of the <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>. I am also recognized as National and Guangdong Provincial Young Talent.
+I am an assistant professor at the <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/">Data Science and Analytics Thrust (DSA)</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>. I am also an  affiliate assistant professor of the <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>. I am supported by both the National and the Guangdong Provincial Young Talent programs.
 <br>
 
 
