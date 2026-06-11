@@ -7,7 +7,7 @@ layout: base
 # Research Interests
 <!-- Reinforcement learning, online machine learning (e.g., multi-armed bandit problem)--->
 
-My research interests include models and methods of reinforcement learning, online learning (e.g., multi-armed bandit problem).
+My research interests include models and methods of reinforcement learning, online learning (e.g., multi-armed bandit problem) and large language models.
 
 <b>Foundations & Theory</b> 📐
 <ul>
@@ -85,6 +85,11 @@ My research interests include models and methods of reinforcement learning, onli
 # Journal Papers
 <!-- Submitted Manuscripts -->
 <ol reversed>
+
+<li> <a href="https://arxiv.org/pdf/2606.07200">Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL</a> 
+<br> Xinren Zhang, <b>Zixin Zhong*</b>, and Jiadong Yu
+<br> <i>Reinforcement Learning Journal (RLJ)</i> , Accepted in May 2026
+ </li> 
 
 
 <li> <a href="https://www.jmlr.org/papers/v25/22-1088.html">Optimal Clustering with Bandit Feedback</a> 
