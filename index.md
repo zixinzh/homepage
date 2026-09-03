@@ -150,6 +150,14 @@ My research interests include models and methods of reinforcement learning, onli
      
 <!-- <li> &#128640; &#128640; &#128640; <strong>Open to job market! Please kindly contact me if there is any opening position! </strong> &#128640; &#128640; &#128640; </li> -->
 
+<li> 01/09/2026: I am excited to host an upcoming CCF YOCSEF forum as Executive Chair. Everyone is warmly invited to attend! Please refer to the <a href="figures/0905poster-V22.png"><b>poster</b></a> for full details.
+<br> A big thank you to <b>my Co-Chair and our dedicated team members</b> for all their hard work in bringing this together! 
+ </li> 
+
+ <li> 14/08/2026: Paper "Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL" accepted by <b>Reinforcement Learning Journal (RLJ)</b>. In this paper, we improve the efficiency of algorithm in the MARL environment.
+<br> This is joint work with Xinren Zhang and Jiadong Yu.  I sincerely thank my collaborators' great efforts and did enjoy Montreal! 
+ </li> 
+
 <li> 26/09/2024: Paper "Almost Minimax Optimal Best Arm Identification in Piecewise Stationary Linear Bandits" accepted by <b>NeurIPS</b>. In this paper, we propose a novel piecewise stationary linear bandit (PSLB) model, where we design an almost-optimal algorithm, PSBAI+, for best arm identification. 
 <br> This is joint work with Yunlong Hou and Vincent Y.&thinsp;F. Tan.  I sincerely thank my collaborators' great efforts and <b>see you in Vancouver</b>! ❄️
  </li> 
