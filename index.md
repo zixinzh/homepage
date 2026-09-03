@@ -150,7 +150,7 @@ My research interests include models and methods of reinforcement learning, onli
      
 <!-- <li> &#128640; &#128640; &#128640; <strong>Open to job market! Please kindly contact me if there is any opening position! </strong> &#128640; &#128640; &#128640; </li> -->
 
-<li> 01/09/2026: I am excited to host an upcoming CCF YOCSEF forum as Executive Chair. Everyone is warmly invited to attend! Please refer to the <a href="figures/0905poster-V22.png"><b>poster</b></a> for full details.
+<li> 01/09/2026: I am excited to host an upcoming CCF YOCSEF forum as Executive Chair this Saturday. Everyone is warmly invited to attend! Please refer to the <a href="figures/0905poster-V22.png"><b>poster</b></a> for full details.
 <br> A big thank you to <b>my Co-Chair and our dedicated team members</b> for all their hard work in bringing this together! 
  </li> 
 
