@@ -150,8 +150,8 @@ My research interests include models and methods of reinforcement learning, onli
      
 <!-- <li> &#128640; &#128640; &#128640; <strong>Open to job market! Please kindly contact me if there is any opening position! </strong> &#128640; &#128640; &#128640; </li> -->
 
-<li> 29/10/2026: Congratulations on the establishment of the postdoctoral research station at HKUST(GZ)!
-    <br>I am currently actively recruting <b>postdoctoral researchers</b>, as well as PhD students, MPhil students, and research assistats starting now or in the future.
+<li> 29/10/2026: Congratulations on setting up the Postdoctoral Research Stations at HKUST(GZ)!
+    <br>My research group is currently seeking talented <b>postdoctoral researchers</b>, PhD students, MPhil students, and research assistants starting immediately or for future intakes.
  </li> 
 
 <li> 01/09/2026: I am excited to host an upcoming CCF YOCSEF forum as Executive Chair this Saturday. Everyone is warmly invited to attend! Please refer to the <a href="figures/0905poster-V22.png">poster</a> for full details.
