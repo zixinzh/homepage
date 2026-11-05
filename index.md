@@ -150,7 +150,7 @@ My research interests include models and methods of reinforcement learning, onli
      
 <!-- <li> &#128640; &#128640; &#128640; <strong>Open to job market! Please kindly contact me if there is any opening position! </strong> &#128640; &#128640; &#128640; </li> -->
 
-<li> 29/10/2026: Congratulations on setting up the Postdoctoral Research Stations at HKUST(GZ)!
+<li> 05/11/2026: Congratulations on setting up the <a href="https://mp.weixin.qq.com/s/Et0xBMSRN0rDA5o_lYtkPg">tPostdoctoral Research Stations</a> at HKUST(GZ)!
     <br>My research group is currently seeking talented <b>postdoctoral researchers</b>, PhD students, MPhil students, and research assistants starting immediately or for future intakes.
  </li> 
 
